@@ -1,0 +1,6924 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013b (8.2.0.701) 64-bit (glnxa64)
+                              August 13, 2013
+
+No window system found.  Java option 'MWT' ignored.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> 
+Xtrue =
+
+     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     0     0     0
+     1     1     1     0     0     0     0     0     0
+
+
+ans =
+
+    0.5000    0.5000    0.5000
+    0.5000    0.5000    0.5000
+    0.5000    0.5000    0.5000
+    0.3000    0.3500         0
+    0.3000    0.3500         0
+    0.3000    0.3500         0
+    0.1500    0.2750         0
+    0.1500    0.2750         0
+    0.1500    0.2750         0
+
+>> >> >> >> >> m = 1
+Iteration: 1000
+Accept: 0.08
+sigma_v: 0.43047
+Time (loop): 0.0032328
+log-likelihood: -38.0301
+Iteration: 2000
+Accept: 0.2
+sigma_v: 0.22877
+Time (loop): 0.0031616
+log-likelihood: -35.8476
+Iteration: 3000
+Accept: 0.2
+sigma_v: 0.22877
+Time (loop): 0.0031372
+log-likelihood: -38.7991
+Iteration: 4000
+Accept: 0.23
+sigma_v: 0.22877
+Time (loop): 0.0031243
+log-likelihood: -37.978
+Iteration: 5000
+Accept: 0.3
+sigma_v: 0.22877
+Time (loop): 0.0031183
+log-likelihood: -37.6725
+Iteration: 6000
+Accept: 0.24
+sigma_v: 0.22877
+Time (loop): 0.003113
+log-likelihood: -38.384
+Iteration: 7000
+Accept: 0.26
+sigma_v: 0.22877
+Time (loop): 0.00311
+log-likelihood: -38.817
+Iteration: 8000
+Accept: 0.23
+sigma_v: 0.22877
+Time (loop): 0.0031075
+log-likelihood: -37.8034
+Iteration: 9000
+Accept: 0.19
+sigma_v: 0.20589
+Time (loop): 0.0031056
+log-likelihood: -33.9827
+Iteration: 10000
+Accept: 0.16
+sigma_v: 0.22648
+Time (loop): 0.0031041
+log-likelihood: -34.0965
+Iteration: 11000
+Accept: 0.11
+sigma_v: 0.24913
+Time (loop): 0.0031031
+log-likelihood: -39.0536
+Iteration: 12000
+Accept: 0.19
+sigma_v: 0.22422
+Time (loop): 0.003102
+log-likelihood: -38.3241
+Iteration: 13000
+Accept: 0.25
+sigma_v: 0.24664
+Time (loop): 0.0031011
+log-likelihood: -37.9306
+Iteration: 14000
+Accept: 0.17
+sigma_v: 0.22197
+Time (loop): 0.0031004
+log-likelihood: -37.7558
+Iteration: 15000
+Accept: 0.33
+sigma_v: 0.24417
+Time (loop): 0.0030999
+log-likelihood: -31.6861
+Iteration: 16000
+Accept: 0.23
+sigma_v: 0.21756
+Time (loop): 0.0030993
+log-likelihood: -36.8683
+Iteration: 17000
+Accept: 0.17
+sigma_v: 0.21756
+Time (loop): 0.0030987
+log-likelihood: -38.7713
+Iteration: 18000
+Accept: 0.28
+sigma_v: 0.21756
+Time (loop): 0.0030982
+log-likelihood: -37.0483
+Iteration: 19000
+Accept: 0.23
+sigma_v: 0.21756
+Time (loop): 0.0030976
+log-likelihood: -37.4058
+Iteration: 20000
+Accept: 0.12
+sigma_v: 0.23931
+Time (loop): 0.0030974
+log-likelihood: -37.6787
+Iteration: 21000
+Accept: 0.2
+sigma_v: 0.21323
+Time (loop): 0.0030971
+log-likelihood: -38.3055
+Iteration: 22000
+Accept: 0.29
+sigma_v: 0.21109
+Time (loop): 0.0030969
+log-likelihood: -35.2136
+Iteration: 23000
+Accept: 0.24
+sigma_v: 0.20898
+Time (loop): 0.0030967
+log-likelihood: -33.5607
+Iteration: 24000
+Accept: 0.33
+sigma_v: 0.20898
+Time (loop): 0.0030965
+log-likelihood: -36.6549
+Iteration: 25000
+Accept: 0.13
+sigma_v: 0.22988
+Time (loop): 0.0030964
+log-likelihood: -37.3967
+Iteration: 26000
+Accept: 0.13
+sigma_v: 0.20689
+Time (loop): 0.0030959
+log-likelihood: -37.6054
+Iteration: 27000
+Accept: 0.2
+sigma_v: 0.20689
+Time (loop): 0.0030953
+log-likelihood: -37.5514
+Iteration: 28000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030948
+log-likelihood: -37.8477
+Iteration: 29000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030944
+log-likelihood: -32.129
+Iteration: 30000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.003094
+log-likelihood: -35.7615
+Iteration: 31000
+Accept: 0.08
+sigma_v: 0.20689
+Time (loop): 0.0030937
+log-likelihood: -32.3204
+Iteration: 32000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030933
+log-likelihood: -33.5457
+Iteration: 33000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.003093
+log-likelihood: -35.6692
+Iteration: 34000
+Accept: 0.1
+sigma_v: 0.20689
+Time (loop): 0.0030926
+log-likelihood: -34.2031
+Iteration: 35000
+Accept: 0.21
+sigma_v: 0.20689
+Time (loop): 0.0030924
+log-likelihood: -33.894
+Iteration: 36000
+Accept: 0.24
+sigma_v: 0.20689
+Time (loop): 0.0030921
+log-likelihood: -34.1271
+Iteration: 37000
+Accept: 0.15
+sigma_v: 0.20689
+Time (loop): 0.0030918
+log-likelihood: -34.021
+Iteration: 38000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030915
+log-likelihood: -34.1287
+Iteration: 39000
+Accept: 0.11
+sigma_v: 0.20689
+Time (loop): 0.0030912
+log-likelihood: -31.6625
+Iteration: 40000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030909
+log-likelihood: -32.5604
+Iteration: 41000
+Accept: 0.23
+sigma_v: 0.20689
+Time (loop): 0.0030907
+log-likelihood: -42.4025
+Iteration: 42000
+Accept: 0.23
+sigma_v: 0.20689
+Time (loop): 0.0030905
+log-likelihood: -32.0015
+Iteration: 43000
+Accept: 0.12
+sigma_v: 0.20689
+Time (loop): 0.0030904
+log-likelihood: -31.7238
+Iteration: 44000
+Accept: 0.25
+sigma_v: 0.20689
+Time (loop): 0.0030902
+log-likelihood: -32.8093
+Iteration: 45000
+Accept: 0.12
+sigma_v: 0.20689
+Time (loop): 0.00309
+log-likelihood: -31.6795
+Iteration: 46000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030899
+log-likelihood: -31.685
+Iteration: 47000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030897
+log-likelihood: -33.1994
+Iteration: 48000
+Accept: 0.22
+sigma_v: 0.20689
+Time (loop): 0.0030896
+log-likelihood: -33.6114
+Iteration: 49000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030895
+log-likelihood: -35.3019
+Iteration: 50000
+Accept: 0.09
+sigma_v: 0.20689
+Time (loop): 0.0030894
+log-likelihood: -35.8525
+Iteration: 51000
+Accept: 0.12
+sigma_v: 0.20689
+Time (loop): 0.0030892
+log-likelihood: -33.6257
+Iteration: 52000
+Accept: 0.18
+sigma_v: 0.20689
+Time (loop): 0.0030891
+log-likelihood: -35.3307
+Iteration: 53000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.003089
+log-likelihood: -31.9609
+Iteration: 54000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030889
+log-likelihood: -35.0211
+Iteration: 55000
+Accept: 0.18
+sigma_v: 0.20689
+Time (loop): 0.0030887
+log-likelihood: -32.8711
+Iteration: 56000
+Accept: 0.15
+sigma_v: 0.20689
+Time (loop): 0.0030886
+log-likelihood: -31.6475
+Iteration: 57000
+Accept: 0.18
+sigma_v: 0.20689
+Time (loop): 0.0030885
+log-likelihood: -34.8603
+Iteration: 58000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030885
+log-likelihood: -33.2672
+Iteration: 59000
+Accept: 0.2
+sigma_v: 0.20689
+Time (loop): 0.0030883
+log-likelihood: -33.1533
+Iteration: 60000
+Accept: 0.18
+sigma_v: 0.20689
+Time (loop): 0.0030882
+log-likelihood: -40.6938
+Iteration: 61000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030881
+log-likelihood: -35.403
+Iteration: 62000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030881
+log-likelihood: -33.81
+Iteration: 63000
+Accept: 0.18
+sigma_v: 0.20689
+Time (loop): 0.003088
+log-likelihood: -31.3128
+Iteration: 64000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030879
+log-likelihood: -31.5707
+Iteration: 65000
+Accept: 0.11
+sigma_v: 0.20689
+Time (loop): 0.0030879
+log-likelihood: -32.1316
+Iteration: 66000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030878
+log-likelihood: -36.9339
+Iteration: 67000
+Accept: 0.13
+sigma_v: 0.20689
+Time (loop): 0.0030878
+log-likelihood: -34.3911
+Iteration: 68000
+Accept: 0.25
+sigma_v: 0.20689
+Time (loop): 0.0030877
+log-likelihood: -33.4028
+Iteration: 69000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030877
+log-likelihood: -34.5127
+Iteration: 70000
+Accept: 0.24
+sigma_v: 0.20689
+Time (loop): 0.0030876
+log-likelihood: -35.2366
+Iteration: 71000
+Accept: 0.2
+sigma_v: 0.20689
+Time (loop): 0.0030875
+log-likelihood: -31.5333
+Iteration: 72000
+Accept: 0.23
+sigma_v: 0.20689
+Time (loop): 0.0030875
+log-likelihood: -35.7076
+Iteration: 73000
+Accept: 0.22
+sigma_v: 0.20689
+Time (loop): 0.0030874
+log-likelihood: -40.1903
+Iteration: 74000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030874
+log-likelihood: -34.716
+Iteration: 75000
+Accept: 0.22
+sigma_v: 0.20689
+Time (loop): 0.0030873
+log-likelihood: -37.7658
+Iteration: 76000
+Accept: 0.29
+sigma_v: 0.20689
+Time (loop): 0.0030873
+log-likelihood: -36.6743
+Iteration: 77000
+Accept: 0.24
+sigma_v: 0.20689
+Time (loop): 0.0030872
+log-likelihood: -32.0018
+Iteration: 78000
+Accept: 0.26
+sigma_v: 0.20689
+Time (loop): 0.0030871
+log-likelihood: -37.6987
+Iteration: 79000
+Accept: 0.32
+sigma_v: 0.20689
+Time (loop): 0.0030871
+log-likelihood: -35.7721
+Iteration: 80000
+Accept: 0.25
+sigma_v: 0.20689
+Time (loop): 0.003087
+log-likelihood: -37.4834
+Iteration: 81000
+Accept: 0.25
+sigma_v: 0.20689
+Time (loop): 0.0030869
+log-likelihood: -32.8714
+Iteration: 82000
+Accept: 0.37
+sigma_v: 0.20689
+Time (loop): 0.0030869
+log-likelihood: -35.0361
+Iteration: 83000
+Accept: 0.21
+sigma_v: 0.20689
+Time (loop): 0.0030868
+log-likelihood: -31.7275
+Iteration: 84000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030867
+log-likelihood: -37.9498
+Iteration: 85000
+Accept: 0.27
+sigma_v: 0.20689
+Time (loop): 0.0030867
+log-likelihood: -38.048
+Iteration: 86000
+Accept: 0.22
+sigma_v: 0.20689
+Time (loop): 0.0030866
+log-likelihood: -37.6208
+Iteration: 87000
+Accept: 0.3
+sigma_v: 0.20689
+Time (loop): 0.0030866
+log-likelihood: -38.4546
+Iteration: 88000
+Accept: 0.3
+sigma_v: 0.20689
+Time (loop): 0.0030866
+log-likelihood: -35.2296
+Iteration: 89000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030865
+log-likelihood: -34.1676
+Iteration: 90000
+Accept: 0.13
+sigma_v: 0.20689
+Time (loop): 0.0030865
+log-likelihood: -36.2988
+Iteration: 91000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030864
+log-likelihood: -32.9441
+Iteration: 92000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030864
+log-likelihood: -39.0498
+Iteration: 93000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030864
+log-likelihood: -33.6092
+Iteration: 94000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030864
+log-likelihood: -33.4176
+Iteration: 95000
+Accept: 0.21
+sigma_v: 0.20689
+Time (loop): 0.0030863
+log-likelihood: -31.8516
+Iteration: 96000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030863
+log-likelihood: -31.7539
+Iteration: 97000
+Accept: 0.21
+sigma_v: 0.20689
+Time (loop): 0.0030862
+log-likelihood: -35.4981
+Iteration: 98000
+Accept: 0.18
+sigma_v: 0.20689
+Time (loop): 0.0030862
+log-likelihood: -32.1226
+Iteration: 99000
+Accept: 0.15
+sigma_v: 0.20689
+Time (loop): 0.0030861
+log-likelihood: -31.3516
+Iteration: 100000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030861
+log-likelihood: -31.8438
+Iteration: 101000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030861
+log-likelihood: -37.0547
+Iteration: 102000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030861
+log-likelihood: -34.1232
+Iteration: 103000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030861
+log-likelihood: -33.5464
+Iteration: 104000
+Accept: 0.12
+sigma_v: 0.20689
+Time (loop): 0.003086
+log-likelihood: -37.4058
+Iteration: 105000
+Accept: 0.15
+sigma_v: 0.20689
+Time (loop): 0.003086
+log-likelihood: -31.955
+Iteration: 106000
+Accept: 0.22
+sigma_v: 0.20689
+Time (loop): 0.003086
+log-likelihood: -33.329
+Iteration: 107000
+Accept: 0.08
+sigma_v: 0.20689
+Time (loop): 0.003086
+log-likelihood: -31.3969
+Iteration: 108000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.003086
+log-likelihood: -36.2546
+Iteration: 109000
+Accept: 0.09
+sigma_v: 0.20689
+Time (loop): 0.0030859
+log-likelihood: -33.0861
+Iteration: 110000
+Accept: 0.23
+sigma_v: 0.20689
+Time (loop): 0.0030859
+log-likelihood: -36.0692
+Iteration: 111000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -31.849
+Iteration: 112000
+Accept: 0.12
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -31.4698
+Iteration: 113000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -37.4097
+Iteration: 114000
+Accept: 0.13
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -37.8641
+Iteration: 115000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -31.9972
+Iteration: 116000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -33.4254
+Iteration: 117000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030858
+log-likelihood: -31.5668
+Iteration: 118000
+Accept: 0.17
+sigma_v: 0.20689
+Time (loop): 0.0030857
+log-likelihood: -37.2728
+Iteration: 119000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030857
+log-likelihood: -33.5474
+Iteration: 120000
+Accept: 0.12
+sigma_v: 0.20689
+Time (loop): 0.0030857
+log-likelihood: -31.8162
+Iteration: 121000
+Accept: 0.14
+sigma_v: 0.20689
+Time (loop): 0.0030857
+log-likelihood: -33.6436
+Iteration: 122000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0030857
+log-likelihood: -32.5589
+Iteration: 123000
+Accept: 0.13
+sigma_v: 0.20689
+Time (loop): 0.0030856
+log-likelihood: -31.5918
+Iteration: 124000
+Accept: 0.16
+sigma_v: 0.20689
+Time (loop): 0.0030856
+log-likelihood: -31.5464
+Iteration: 125000
+Accept: 0.15
+sigma_v: 0.20689
+Time (loop): 0.0030856
+log-likelihood: -32.0842
+m = 2
+Iteration: 1000
+Accept: 0.09
+sigma_v: 0.43047
+Time (loop): 0.0033378
+log-likelihood: -39.3734
+Iteration: 2000
+Accept: 0.17
+sigma_v: 0.22877
+Time (loop): 0.003336
+log-likelihood: -31.7462
+Iteration: 3000
+Accept: 0.26
+sigma_v: 0.20589
+Time (loop): 0.0033334
+log-likelihood: -36.0431
+Iteration: 4000
+Accept: 0.19
+sigma_v: 0.24913
+Time (loop): 0.0033332
+log-likelihood: -31.9494
+Iteration: 5000
+Accept: 0.17
+sigma_v: 0.20179
+Time (loop): 0.003333
+log-likelihood: -34.9752
+Iteration: 6000
+Accept: 0.2
+sigma_v: 0.19978
+Time (loop): 0.0033329
+log-likelihood: -33.4335
+Iteration: 7000
+Accept: 0.19
+sigma_v: 0.21756
+Time (loop): 0.003333
+log-likelihood: -34.3841
+Iteration: 8000
+Accept: 0.18
+sigma_v: 0.23931
+Time (loop): 0.0033332
+log-likelihood: -32.1359
+Iteration: 9000
+Accept: 0.13
+sigma_v: 0.21538
+Time (loop): 0.0033332
+log-likelihood: -37.8925
+Iteration: 10000
+Accept: 0.25
+sigma_v: 0.1919
+Time (loop): 0.0033332
+log-likelihood: -34.1967
+Iteration: 11000
+Accept: 0.28
+sigma_v: 0.1919
+Time (loop): 0.0033333
+log-likelihood: -32.3639
+Iteration: 12000
+Accept: 0.31
+sigma_v: 0.18998
+Time (loop): 0.0033333
+log-likelihood: -31.8531
+Iteration: 13000
+Accept: 0.29
+sigma_v: 0.18809
+Time (loop): 0.0033332
+log-likelihood: -35.4561
+Iteration: 14000
+Accept: 0.24
+sigma_v: 0.20482
+Time (loop): 0.003333
+log-likelihood: -33.8707
+Iteration: 15000
+Accept: 0.27
+sigma_v: 0.24784
+Time (loop): 0.003333
+log-likelihood: -37.4058
+Iteration: 16000
+Accept: 0.23
+sigma_v: 0.22305
+Time (loop): 0.0033325
+log-likelihood: -37.5772
+Iteration: 17000
+Accept: 0.28
+sigma_v: 0.20075
+Time (loop): 0.0033321
+log-likelihood: -37.2926
+Iteration: 18000
+Accept: 0.28
+sigma_v: 0.22082
+Time (loop): 0.0033318
+log-likelihood: -33.0266
+Iteration: 19000
+Accept: 0.18
+sigma_v: 0.24048
+Time (loop): 0.0033319
+log-likelihood: -37.9404
+Iteration: 20000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033317
+log-likelihood: -35.6742
+Iteration: 21000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033316
+log-likelihood: -37.3976
+Iteration: 22000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033317
+log-likelihood: -33.0216
+Iteration: 23000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033316
+log-likelihood: -36.4554
+Iteration: 24000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0033315
+log-likelihood: -35.8581
+Iteration: 25000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033313
+log-likelihood: -37.4838
+Iteration: 26000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0033309
+log-likelihood: -38.4873
+Iteration: 27000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033305
+log-likelihood: -35.2425
+Iteration: 28000
+Accept: 0.3
+sigma_v: 0.21643
+Time (loop): 0.0033303
+log-likelihood: -37.0095
+Iteration: 29000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.00333
+log-likelihood: -35.7212
+Iteration: 30000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033299
+log-likelihood: -35.4791
+Iteration: 31000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0033297
+log-likelihood: -35.816
+Iteration: 32000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033294
+log-likelihood: -35.0239
+Iteration: 33000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033292
+log-likelihood: -32.846
+Iteration: 34000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033291
+log-likelihood: -32.7478
+Iteration: 35000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.003329
+log-likelihood: -33.7538
+Iteration: 36000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033289
+log-likelihood: -36.6953
+Iteration: 37000
+Accept: 0.31
+sigma_v: 0.21643
+Time (loop): 0.0033288
+log-likelihood: -39.1028
+Iteration: 38000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033287
+log-likelihood: -33.2381
+Iteration: 39000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0033287
+log-likelihood: -34.1827
+Iteration: 40000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033286
+log-likelihood: -33.8995
+Iteration: 41000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033285
+log-likelihood: -35.773
+Iteration: 42000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0033285
+log-likelihood: -33.9119
+Iteration: 43000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033284
+log-likelihood: -32.225
+Iteration: 44000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033283
+log-likelihood: -33.6857
+Iteration: 45000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033283
+log-likelihood: -33.8777
+Iteration: 46000
+Accept: 0.17
+sigma_v: 0.21643
+Time (loop): 0.0033282
+log-likelihood: -34.7323
+Iteration: 47000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0033281
+log-likelihood: -33.1385
+Iteration: 48000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0033281
+log-likelihood: -32.2434
+Iteration: 49000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.003328
+log-likelihood: -36.6269
+Iteration: 50000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0033278
+log-likelihood: -31.6962
+Iteration: 51000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033278
+log-likelihood: -33.1592
+Iteration: 52000
+Accept: 0.31
+sigma_v: 0.21643
+Time (loop): 0.0033277
+log-likelihood: -32.6762
+Iteration: 53000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0033275
+log-likelihood: -37.2048
+Iteration: 54000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033274
+log-likelihood: -37.5559
+Iteration: 55000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0033272
+log-likelihood: -37.002
+Iteration: 56000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.003327
+log-likelihood: -37.6599
+Iteration: 57000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033269
+log-likelihood: -33.4575
+Iteration: 58000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033268
+log-likelihood: -34.2611
+Iteration: 59000
+Accept: 0.31
+sigma_v: 0.21643
+Time (loop): 0.0033267
+log-likelihood: -37.0748
+Iteration: 60000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0033267
+log-likelihood: -37.7496
+Iteration: 61000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033266
+log-likelihood: -38.6137
+Iteration: 62000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033265
+log-likelihood: -40.1604
+Iteration: 63000
+Accept: 0.34
+sigma_v: 0.21643
+Time (loop): 0.0033265
+log-likelihood: -39.2209
+Iteration: 64000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033265
+log-likelihood: -33.6546
+Iteration: 65000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033265
+log-likelihood: -36.9197
+Iteration: 66000
+Accept: 0.33
+sigma_v: 0.21643
+Time (loop): 0.0033264
+log-likelihood: -37.2008
+Iteration: 67000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0033264
+log-likelihood: -35.5378
+Iteration: 68000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033263
+log-likelihood: -37.4594
+Iteration: 69000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033266
+log-likelihood: -33.7043
+Iteration: 70000
+Accept: 0.31
+sigma_v: 0.21643
+Time (loop): 0.003327
+log-likelihood: -35.3678
+Iteration: 71000
+Accept: 0.16
+sigma_v: 0.21643
+Time (loop): 0.0033275
+log-likelihood: -31.4693
+Iteration: 72000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0033279
+log-likelihood: -34.1496
+Iteration: 73000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033282
+log-likelihood: -37.5786
+Iteration: 74000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033286
+log-likelihood: -35.5045
+Iteration: 75000
+Accept: 0.15
+sigma_v: 0.21643
+Time (loop): 0.0033289
+log-likelihood: -33.4164
+Iteration: 76000
+Accept: 0.16
+sigma_v: 0.21643
+Time (loop): 0.0033292
+log-likelihood: -36.9375
+Iteration: 77000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033295
+log-likelihood: -38.1013
+Iteration: 78000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0033298
+log-likelihood: -38.044
+Iteration: 79000
+Accept: 0.17
+sigma_v: 0.21643
+Time (loop): 0.0033301
+log-likelihood: -37.4336
+Iteration: 80000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0033304
+log-likelihood: -37.3188
+Iteration: 81000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033307
+log-likelihood: -36.7093
+Iteration: 82000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.003331
+log-likelihood: -34.5676
+Iteration: 83000
+Accept: 0.15
+sigma_v: 0.21643
+Time (loop): 0.0033313
+log-likelihood: -34.5457
+Iteration: 84000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033316
+log-likelihood: -33.2648
+Iteration: 85000
+Accept: 0.14
+sigma_v: 0.21643
+Time (loop): 0.0033319
+log-likelihood: -34.7237
+Iteration: 86000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033322
+log-likelihood: -31.38
+Iteration: 87000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033324
+log-likelihood: -31.7631
+Iteration: 88000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0033327
+log-likelihood: -35.7143
+Iteration: 89000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.003333
+log-likelihood: -34.006
+Iteration: 90000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.0033333
+log-likelihood: -36.0875
+Iteration: 91000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033335
+log-likelihood: -32.9215
+Iteration: 92000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033338
+log-likelihood: -35.7817
+Iteration: 93000
+Accept: 0.17
+sigma_v: 0.21643
+Time (loop): 0.003334
+log-likelihood: -37.3942
+Iteration: 94000
+Accept: 0.32
+sigma_v: 0.21643
+Time (loop): 0.0033342
+log-likelihood: -33.5945
+Iteration: 95000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0033344
+log-likelihood: -37.9979
+Iteration: 96000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0033347
+log-likelihood: -32.389
+Iteration: 97000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033349
+log-likelihood: -37.7065
+Iteration: 98000
+Accept: 0.31
+sigma_v: 0.21643
+Time (loop): 0.0033351
+log-likelihood: -31.647
+Iteration: 99000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033353
+log-likelihood: -37.4192
+Iteration: 100000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033355
+log-likelihood: -32.8193
+Iteration: 101000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033357
+log-likelihood: -36.1574
+Iteration: 102000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0033358
+log-likelihood: -37.5138
+Iteration: 103000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.003336
+log-likelihood: -36.7355
+Iteration: 104000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0033362
+log-likelihood: -32.1076
+Iteration: 105000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0033363
+log-likelihood: -39.0717
+Iteration: 106000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0033364
+log-likelihood: -39.1853
+Iteration: 107000
+Accept: 0.33
+sigma_v: 0.21643
+Time (loop): 0.0033366
+log-likelihood: -35.3142
+Iteration: 108000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033367
+log-likelihood: -33.9397
+Iteration: 109000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0033369
+log-likelihood: -34.8874
+Iteration: 110000
+Accept: 0.16
+sigma_v: 0.21643
+Time (loop): 0.003337
+log-likelihood: -37.7928
+Iteration: 111000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0033371
+log-likelihood: -31.2379
+Iteration: 112000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0033372
+log-likelihood: -32.1307
+Iteration: 113000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0033374
+log-likelihood: -38.628
+Iteration: 114000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0033375
+log-likelihood: -31.4018
+Iteration: 115000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0033377
+log-likelihood: -33.6363
+Iteration: 116000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0033379
+log-likelihood: -35.0077
+Iteration: 117000
+Accept: 0.15
+sigma_v: 0.21643
+Time (loop): 0.003338
+log-likelihood: -32.0904
+Iteration: 118000
+Accept: 0.14
+sigma_v: 0.21643
+Time (loop): 0.0033381
+log-likelihood: -33.917
+Iteration: 119000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0033381
+log-likelihood: -34.5626
+Iteration: 120000
+Accept: 0.13
+sigma_v: 0.21643
+Time (loop): 0.003338
+log-likelihood: -34.3409
+Iteration: 121000
+Accept: 0.11
+sigma_v: 0.21643
+Time (loop): 0.003338
+log-likelihood: -31.9571
+Iteration: 122000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.003338
+log-likelihood: -33.4676
+Iteration: 123000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.003338
+log-likelihood: -34.1534
+Iteration: 124000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.003338
+log-likelihood: -33.9603
+Iteration: 125000
+Accept: 0.17
+sigma_v: 0.21643
+Time (loop): 0.0033379
+log-likelihood: -31.459
+m = 3
+Iteration: 1000
+Accept: 0.1
+sigma_v: 0.43047
+Time (loop): 0.0038814
+log-likelihood: -35.9506
+Iteration: 2000
+Accept: 0.08
+sigma_v: 0.34868
+Time (loop): 0.0038764
+log-likelihood: -37.6034
+Iteration: 3000
+Accept: 0.18
+sigma_v: 0.31067
+Time (loop): 0.003878
+log-likelihood: -34.6665
+Iteration: 4000
+Accept: 0.26
+sigma_v: 0.25164
+Time (loop): 0.003879
+log-likelihood: -33.8284
+Iteration: 5000
+Accept: 0.23
+sigma_v: 0.22648
+Time (loop): 0.0038725
+log-likelihood: -33.0721
+Iteration: 6000
+Accept: 0.15
+sigma_v: 0.24664
+Time (loop): 0.0038683
+log-likelihood: -35.297
+Iteration: 7000
+Accept: 0.24
+sigma_v: 0.24664
+Time (loop): 0.0038646
+log-likelihood: -33.9624
+Iteration: 8000
+Accept: 0.28
+sigma_v: 0.24664
+Time (loop): 0.0038625
+log-likelihood: -34.6297
+Iteration: 9000
+Accept: 0.19
+sigma_v: 0.24417
+Time (loop): 0.0038601
+log-likelihood: -34.0404
+Iteration: 10000
+Accept: 0.2
+sigma_v: 0.24173
+Time (loop): 0.0038571
+log-likelihood: -33.497
+Iteration: 11000
+Accept: 0.2
+sigma_v: 0.24173
+Time (loop): 0.0038535
+log-likelihood: -37.6
+Iteration: 12000
+Accept: 0.25
+sigma_v: 0.2659
+Time (loop): 0.0038527
+log-likelihood: -34.1392
+Iteration: 13000
+Accept: 0.16
+sigma_v: 0.29249
+Time (loop): 0.0038522
+log-likelihood: -32.5542
+Iteration: 14000
+Accept: 0.16
+sigma_v: 0.23692
+Time (loop): 0.0038514
+log-likelihood: -34.5104
+Iteration: 15000
+Accept: 0.31
+sigma_v: 0.23455
+Time (loop): 0.003851
+log-likelihood: -33.4027
+Iteration: 16000
+Accept: 0.3
+sigma_v: 0.20689
+Time (loop): 0.0038505
+log-likelihood: -36.5393
+Iteration: 17000
+Accept: 0.21
+sigma_v: 0.27538
+Time (loop): 0.0038501
+log-likelihood: -34.3667
+Iteration: 18000
+Accept: 0.29
+sigma_v: 0.27538
+Time (loop): 0.0038499
+log-likelihood: -35.7619
+Iteration: 19000
+Accept: 0.26
+sigma_v: 0.2699
+Time (loop): 0.0038499
+log-likelihood: -31.4493
+Iteration: 20000
+Accept: 0.18
+sigma_v: 0.2699
+Time (loop): 0.0038493
+log-likelihood: -33.1986
+Iteration: 21000
+Accept: 0.25
+sigma_v: 0.24291
+Time (loop): 0.0038489
+log-likelihood: -37.1588
+Iteration: 22000
+Accept: 0.18
+sigma_v: 0.2672
+Time (loop): 0.0038486
+log-likelihood: -32.4174
+Iteration: 23000
+Accept: 0.14
+sigma_v: 0.26452
+Time (loop): 0.0038481
+log-likelihood: -35.039
+Iteration: 24000
+Accept: 0.24
+sigma_v: 0.26188
+Time (loop): 0.0038478
+log-likelihood: -34.3701
+Iteration: 25000
+Accept: 0.17
+sigma_v: 0.23569
+Time (loop): 0.0038472
+log-likelihood: -33.4598
+Iteration: 26000
+Accept: 0.33
+sigma_v: 0.23569
+Time (loop): 0.0038466
+log-likelihood: -32.8132
+Iteration: 27000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038458
+log-likelihood: -36.692
+Iteration: 28000
+Accept: 0.27
+sigma_v: 0.23569
+Time (loop): 0.0038452
+log-likelihood: -33.5747
+Iteration: 29000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038448
+log-likelihood: -33.1309
+Iteration: 30000
+Accept: 0.17
+sigma_v: 0.23569
+Time (loop): 0.0038443
+log-likelihood: -37.0562
+Iteration: 31000
+Accept: 0.25
+sigma_v: 0.23569
+Time (loop): 0.0038436
+log-likelihood: -38.913
+Iteration: 32000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038432
+log-likelihood: -32.0608
+Iteration: 33000
+Accept: 0.18
+sigma_v: 0.23569
+Time (loop): 0.0038427
+log-likelihood: -31.7163
+Iteration: 34000
+Accept: 0.28
+sigma_v: 0.23569
+Time (loop): 0.0038419
+log-likelihood: -38.3349
+Iteration: 35000
+Accept: 0.26
+sigma_v: 0.23569
+Time (loop): 0.0038412
+log-likelihood: -33.1944
+Iteration: 36000
+Accept: 0.13
+sigma_v: 0.23569
+Time (loop): 0.0038409
+log-likelihood: -31.8481
+Iteration: 37000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038404
+log-likelihood: -36.9847
+Iteration: 38000
+Accept: 0.18
+sigma_v: 0.23569
+Time (loop): 0.0038399
+log-likelihood: -34.2651
+Iteration: 39000
+Accept: 0.18
+sigma_v: 0.23569
+Time (loop): 0.0038397
+log-likelihood: -38.0195
+Iteration: 40000
+Accept: 0.2
+sigma_v: 0.23569
+Time (loop): 0.0038394
+log-likelihood: -38.9446
+Iteration: 41000
+Accept: 0.24
+sigma_v: 0.23569
+Time (loop): 0.0038391
+log-likelihood: -33.8603
+Iteration: 42000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038389
+log-likelihood: -39.108
+Iteration: 43000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038387
+log-likelihood: -33.835
+Iteration: 44000
+Accept: 0.24
+sigma_v: 0.23569
+Time (loop): 0.0038385
+log-likelihood: -35.8954
+Iteration: 45000
+Accept: 0.28
+sigma_v: 0.23569
+Time (loop): 0.0038382
+log-likelihood: -34.3236
+Iteration: 46000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038381
+log-likelihood: -32.1556
+Iteration: 47000
+Accept: 0.2
+sigma_v: 0.23569
+Time (loop): 0.003838
+log-likelihood: -32.2291
+Iteration: 48000
+Accept: 0.29
+sigma_v: 0.23569
+Time (loop): 0.0038378
+log-likelihood: -31.5516
+Iteration: 49000
+Accept: 0.12
+sigma_v: 0.23569
+Time (loop): 0.0038376
+log-likelihood: -35.8372
+Iteration: 50000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038372
+log-likelihood: -39.2374
+Iteration: 51000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038367
+log-likelihood: -39.5365
+Iteration: 52000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038363
+log-likelihood: -37.5496
+Iteration: 53000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038359
+log-likelihood: -38.4213
+Iteration: 54000
+Accept: 0.16
+sigma_v: 0.23569
+Time (loop): 0.0038356
+log-likelihood: -31.3398
+Iteration: 55000
+Accept: 0.29
+sigma_v: 0.23569
+Time (loop): 0.0038354
+log-likelihood: -37.4711
+Iteration: 56000
+Accept: 0.28
+sigma_v: 0.23569
+Time (loop): 0.0038351
+log-likelihood: -37.2196
+Iteration: 57000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038349
+log-likelihood: -33.4552
+Iteration: 58000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038347
+log-likelihood: -34.8978
+Iteration: 59000
+Accept: 0.25
+sigma_v: 0.23569
+Time (loop): 0.0038345
+log-likelihood: -38.0359
+Iteration: 60000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038342
+log-likelihood: -38.1067
+Iteration: 61000
+Accept: 0.26
+sigma_v: 0.23569
+Time (loop): 0.0038339
+log-likelihood: -35.7439
+Iteration: 62000
+Accept: 0.29
+sigma_v: 0.23569
+Time (loop): 0.0038339
+log-likelihood: -35.3154
+Iteration: 63000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038337
+log-likelihood: -39.5402
+Iteration: 64000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038334
+log-likelihood: -37.951
+Iteration: 65000
+Accept: 0.2
+sigma_v: 0.23569
+Time (loop): 0.0038332
+log-likelihood: -37.1292
+Iteration: 66000
+Accept: 0.16
+sigma_v: 0.23569
+Time (loop): 0.003833
+log-likelihood: -37.8651
+Iteration: 67000
+Accept: 0.27
+sigma_v: 0.23569
+Time (loop): 0.0038326
+log-likelihood: -37.8148
+Iteration: 68000
+Accept: 0.13
+sigma_v: 0.23569
+Time (loop): 0.0038321
+log-likelihood: -37.8086
+Iteration: 69000
+Accept: 0.25
+sigma_v: 0.23569
+Time (loop): 0.0038318
+log-likelihood: -38.2039
+Iteration: 70000
+Accept: 0.12
+sigma_v: 0.23569
+Time (loop): 0.0038317
+log-likelihood: -36.8885
+Iteration: 71000
+Accept: 0.26
+sigma_v: 0.23569
+Time (loop): 0.0038316
+log-likelihood: -38.074
+Iteration: 72000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038314
+log-likelihood: -32.6491
+Iteration: 73000
+Accept: 0.25
+sigma_v: 0.23569
+Time (loop): 0.0038313
+log-likelihood: -33.9337
+Iteration: 74000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038312
+log-likelihood: -33.393
+Iteration: 75000
+Accept: 0.33
+sigma_v: 0.23569
+Time (loop): 0.0038311
+log-likelihood: -33.9813
+Iteration: 76000
+Accept: 0.28
+sigma_v: 0.23569
+Time (loop): 0.0038311
+log-likelihood: -34.959
+Iteration: 77000
+Accept: 0.18
+sigma_v: 0.23569
+Time (loop): 0.0038312
+log-likelihood: -33.847
+Iteration: 78000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038311
+log-likelihood: -35.0336
+Iteration: 79000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.003831
+log-likelihood: -35.2989
+Iteration: 80000
+Accept: 0.15
+sigma_v: 0.23569
+Time (loop): 0.0038309
+log-likelihood: -37.369
+Iteration: 81000
+Accept: 0.18
+sigma_v: 0.23569
+Time (loop): 0.0038305
+log-likelihood: -37.7034
+Iteration: 82000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038303
+log-likelihood: -39.1937
+Iteration: 83000
+Accept: 0.28
+sigma_v: 0.23569
+Time (loop): 0.0038302
+log-likelihood: -37.4667
+Iteration: 84000
+Accept: 0.24
+sigma_v: 0.23569
+Time (loop): 0.0038301
+log-likelihood: -31.7024
+Iteration: 85000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038298
+log-likelihood: -37.6219
+Iteration: 86000
+Accept: 0.15
+sigma_v: 0.23569
+Time (loop): 0.0038296
+log-likelihood: -37.146
+Iteration: 87000
+Accept: 0.29
+sigma_v: 0.23569
+Time (loop): 0.0038295
+log-likelihood: -31.476
+Iteration: 88000
+Accept: 0.11
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -36.3424
+Iteration: 89000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -31.31
+Iteration: 90000
+Accept: 0.17
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -31.7345
+Iteration: 91000
+Accept: 0.2
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -33.8421
+Iteration: 92000
+Accept: 0.16
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -32.6278
+Iteration: 93000
+Accept: 0.31
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -35.8505
+Iteration: 94000
+Accept: 0.3
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -36.146
+Iteration: 95000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -34.1118
+Iteration: 96000
+Accept: 0.29
+sigma_v: 0.23569
+Time (loop): 0.0038294
+log-likelihood: -34.8161
+Iteration: 97000
+Accept: 0.16
+sigma_v: 0.23569
+Time (loop): 0.0038294
+log-likelihood: -34.9482
+Iteration: 98000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038294
+log-likelihood: -33.6126
+Iteration: 99000
+Accept: 0.36
+sigma_v: 0.23569
+Time (loop): 0.0038295
+log-likelihood: -33.1541
+Iteration: 100000
+Accept: 0.09
+sigma_v: 0.23569
+Time (loop): 0.0038295
+log-likelihood: -31.593
+Iteration: 101000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038295
+log-likelihood: -36.43
+Iteration: 102000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038295
+log-likelihood: -31.345
+Iteration: 103000
+Accept: 0.25
+sigma_v: 0.23569
+Time (loop): 0.0038295
+log-likelihood: -37.5763
+Iteration: 104000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038294
+log-likelihood: -34.4728
+Iteration: 105000
+Accept: 0.14
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -38.9595
+Iteration: 106000
+Accept: 0.33
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -34.3945
+Iteration: 107000
+Accept: 0.26
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -36.0083
+Iteration: 108000
+Accept: 0.28
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -33.6517
+Iteration: 109000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -37.2821
+Iteration: 110000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -35.3273
+Iteration: 111000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -38.0562
+Iteration: 112000
+Accept: 0.16
+sigma_v: 0.23569
+Time (loop): 0.0038291
+log-likelihood: -34.849
+Iteration: 113000
+Accept: 0.15
+sigma_v: 0.23569
+Time (loop): 0.0038291
+log-likelihood: -32.4315
+Iteration: 114000
+Accept: 0.26
+sigma_v: 0.23569
+Time (loop): 0.003829
+log-likelihood: -40.2737
+Iteration: 115000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038291
+log-likelihood: -37.4399
+Iteration: 116000
+Accept: 0.23
+sigma_v: 0.23569
+Time (loop): 0.0038291
+log-likelihood: -34.0115
+Iteration: 117000
+Accept: 0.26
+sigma_v: 0.23569
+Time (loop): 0.0038291
+log-likelihood: -31.8251
+Iteration: 118000
+Accept: 0.31
+sigma_v: 0.23569
+Time (loop): 0.0038291
+log-likelihood: -34.9532
+Iteration: 119000
+Accept: 0.24
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -36.0483
+Iteration: 120000
+Accept: 0.21
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -35.616
+Iteration: 121000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038292
+log-likelihood: -31.5592
+Iteration: 122000
+Accept: 0.2
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -34.7778
+Iteration: 123000
+Accept: 0.19
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -35.3144
+Iteration: 124000
+Accept: 0.27
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -34.5503
+Iteration: 125000
+Accept: 0.18
+sigma_v: 0.23569
+Time (loop): 0.0038293
+log-likelihood: -33.7727
+m = 4
+Iteration: 1000
+Accept: 0.14
+sigma_v: 0.4783
+Time (loop): 0.004896
+log-likelihood: -32.5404
+Iteration: 2000
+Accept: 0.18
+sigma_v: 0.31381
+Time (loop): 0.004881
+log-likelihood: -34.12
+Iteration: 3000
+Accept: 0.15
+sigma_v: 0.25419
+Time (loop): 0.0048801
+log-likelihood: -37.1127
+Iteration: 4000
+Accept: 0.25
+sigma_v: 0.27404
+Time (loop): 0.0048874
+log-likelihood: -39.4019
+Iteration: 5000
+Accept: 0.31
+sigma_v: 0.2713
+Time (loop): 0.0048916
+log-likelihood: -35.5224
+Iteration: 6000
+Accept: 0.12
+sigma_v: 0.29545
+Time (loop): 0.0048901
+log-likelihood: -35.6846
+Iteration: 7000
+Accept: 0.22
+sigma_v: 0.23931
+Time (loop): 0.0048938
+log-likelihood: -40.0019
+Iteration: 8000
+Accept: 0.14
+sigma_v: 0.28957
+Time (loop): 0.0048935
+log-likelihood: -33.281
+Iteration: 9000
+Accept: 0.11
+sigma_v: 0.26061
+Time (loop): 0.0048914
+log-likelihood: -38.3391
+Iteration: 10000
+Accept: 0.14
+sigma_v: 0.2838
+Time (loop): 0.0048931
+log-likelihood: -33.6345
+Iteration: 11000
+Accept: 0.31
+sigma_v: 0.22988
+Time (loop): 0.0048944
+log-likelihood: -37.0825
+Iteration: 12000
+Accept: 0.17
+sigma_v: 0.27816
+Time (loop): 0.0048965
+log-likelihood: -31.1977
+Iteration: 13000
+Accept: 0.24
+sigma_v: 0.25034
+Time (loop): 0.0048958
+log-likelihood: -34.1647
+Iteration: 14000
+Accept: 0.22
+sigma_v: 0.25034
+Time (loop): 0.0048968
+log-likelihood: -34.6303
+Iteration: 15000
+Accept: 0.25
+sigma_v: 0.25034
+Time (loop): 0.0048985
+log-likelihood: -31.961
+Iteration: 16000
+Accept: 0.17
+sigma_v: 0.25034
+Time (loop): 0.0048982
+log-likelihood: -36.3558
+Iteration: 17000
+Accept: 0.28
+sigma_v: 0.24784
+Time (loop): 0.0048978
+log-likelihood: -35.4784
+Iteration: 18000
+Accept: 0.14
+sigma_v: 0.24784
+Time (loop): 0.0048938
+log-likelihood: -35.123
+Iteration: 19000
+Accept: 0.19
+sigma_v: 0.22305
+Time (loop): 0.004891
+log-likelihood: -36.9069
+Iteration: 20000
+Accept: 0.23
+sigma_v: 0.22305
+Time (loop): 0.0048915
+log-likelihood: -35.6287
+Iteration: 21000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.004894
+log-likelihood: -37.8399
+Iteration: 22000
+Accept: 0.26
+sigma_v: 0.24291
+Time (loop): 0.0048942
+log-likelihood: -36.1246
+Iteration: 23000
+Accept: 0.19
+sigma_v: 0.24291
+Time (loop): 0.004894
+log-likelihood: -31.5798
+Iteration: 24000
+Accept: 0.18
+sigma_v: 0.21862
+Time (loop): 0.0048911
+log-likelihood: -37.4188
+Iteration: 25000
+Accept: 0.14
+sigma_v: 0.24048
+Time (loop): 0.00489
+log-likelihood: -37.6001
+Iteration: 26000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.004888
+log-likelihood: -38.3109
+Iteration: 27000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0048864
+log-likelihood: -37.4027
+Iteration: 28000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048861
+log-likelihood: -33.213
+Iteration: 29000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0048856
+log-likelihood: -34.3549
+Iteration: 30000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0048855
+log-likelihood: -36.3916
+Iteration: 31000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0048846
+log-likelihood: -37.5334
+Iteration: 32000
+Accept: 0.16
+sigma_v: 0.21643
+Time (loop): 0.0048837
+log-likelihood: -34.9709
+Iteration: 33000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0048834
+log-likelihood: -39.3112
+Iteration: 34000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048832
+log-likelihood: -38.575
+Iteration: 35000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0048834
+log-likelihood: -37.2912
+Iteration: 36000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048839
+log-likelihood: -36.6912
+Iteration: 37000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0048834
+log-likelihood: -31.6079
+Iteration: 38000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0048831
+log-likelihood: -37.0884
+Iteration: 39000
+Accept: 0.3
+sigma_v: 0.21643
+Time (loop): 0.0048829
+log-likelihood: -38.707
+Iteration: 40000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.004883
+log-likelihood: -36.305
+Iteration: 41000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048836
+log-likelihood: -33.251
+Iteration: 42000
+Accept: 0.33
+sigma_v: 0.21643
+Time (loop): 0.0048848
+log-likelihood: -34.1527
+Iteration: 43000
+Accept: 0.36
+sigma_v: 0.21643
+Time (loop): 0.004885
+log-likelihood: -34.3884
+Iteration: 44000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.0048855
+log-likelihood: -32.8652
+Iteration: 45000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048857
+log-likelihood: -35.5125
+Iteration: 46000
+Accept: 0.34
+sigma_v: 0.21643
+Time (loop): 0.0048855
+log-likelihood: -32.4015
+Iteration: 47000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048863
+log-likelihood: -31.1824
+Iteration: 48000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048868
+log-likelihood: -32.0881
+Iteration: 49000
+Accept: 0.34
+sigma_v: 0.21643
+Time (loop): 0.0048864
+log-likelihood: -35.2295
+Iteration: 50000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.004887
+log-likelihood: -35.1041
+Iteration: 51000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048878
+log-likelihood: -33.2953
+Iteration: 52000
+Accept: 0.36
+sigma_v: 0.21643
+Time (loop): 0.0048877
+log-likelihood: -34.4764
+Iteration: 53000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048876
+log-likelihood: -37.5308
+Iteration: 54000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048869
+log-likelihood: -32.8192
+Iteration: 55000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.004887
+log-likelihood: -33.1055
+Iteration: 56000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0048872
+log-likelihood: -35.6074
+Iteration: 57000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048867
+log-likelihood: -36.6284
+Iteration: 58000
+Accept: 0.17
+sigma_v: 0.21643
+Time (loop): 0.0048865
+log-likelihood: -38.8688
+Iteration: 59000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0048863
+log-likelihood: -37.8157
+Iteration: 60000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048858
+log-likelihood: -38.414
+Iteration: 61000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0048855
+log-likelihood: -32.1873
+Iteration: 62000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.004885
+log-likelihood: -38.3567
+Iteration: 63000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0048848
+log-likelihood: -40.0076
+Iteration: 64000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.0048849
+log-likelihood: -32.0256
+Iteration: 65000
+Accept: 0.19
+sigma_v: 0.21643
+Time (loop): 0.0048841
+log-likelihood: -35.176
+Iteration: 66000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048828
+log-likelihood: -37.5411
+Iteration: 67000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048821
+log-likelihood: -35.6867
+Iteration: 68000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.0048818
+log-likelihood: -34.3884
+Iteration: 69000
+Accept: 0.4
+sigma_v: 0.21643
+Time (loop): 0.0048817
+log-likelihood: -34.8018
+Iteration: 70000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0048817
+log-likelihood: -31.3104
+Iteration: 71000
+Accept: 0.34
+sigma_v: 0.21643
+Time (loop): 0.0048818
+log-likelihood: -33.7131
+Iteration: 72000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0048818
+log-likelihood: -35.4124
+Iteration: 73000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048819
+log-likelihood: -34.4978
+Iteration: 74000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.004882
+log-likelihood: -35.8736
+Iteration: 75000
+Accept: 0.4
+sigma_v: 0.21643
+Time (loop): 0.0048819
+log-likelihood: -32.9567
+Iteration: 76000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048814
+log-likelihood: -32.6731
+Iteration: 77000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048815
+log-likelihood: -33.4822
+Iteration: 78000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048819
+log-likelihood: -31.534
+Iteration: 79000
+Accept: 0.43
+sigma_v: 0.21643
+Time (loop): 0.0048824
+log-likelihood: -34.7209
+Iteration: 80000
+Accept: 0.3
+sigma_v: 0.21643
+Time (loop): 0.0048825
+log-likelihood: -33.1441
+Iteration: 81000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048825
+log-likelihood: -32.7057
+Iteration: 82000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048829
+log-likelihood: -31.4985
+Iteration: 83000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048829
+log-likelihood: -37.1052
+Iteration: 84000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0048829
+log-likelihood: -37.1997
+Iteration: 85000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048835
+log-likelihood: -36.6816
+Iteration: 86000
+Accept: 0.32
+sigma_v: 0.21643
+Time (loop): 0.0048836
+log-likelihood: -37.8483
+Iteration: 87000
+Accept: 0.32
+sigma_v: 0.21643
+Time (loop): 0.0048841
+log-likelihood: -34.6569
+Iteration: 88000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048845
+log-likelihood: -34.846
+Iteration: 89000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048849
+log-likelihood: -31.3881
+Iteration: 90000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048854
+log-likelihood: -33.463
+Iteration: 91000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048857
+log-likelihood: -33.0303
+Iteration: 92000
+Accept: 0.24
+sigma_v: 0.21643
+Time (loop): 0.0048857
+log-likelihood: -35.9693
+Iteration: 93000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0048855
+log-likelihood: -32.3642
+Iteration: 94000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048853
+log-likelihood: -38.3754
+Iteration: 95000
+Accept: 0.38
+sigma_v: 0.21643
+Time (loop): 0.0048854
+log-likelihood: -31.2646
+Iteration: 96000
+Accept: 0.38
+sigma_v: 0.21643
+Time (loop): 0.0048856
+log-likelihood: -32.7658
+Iteration: 97000
+Accept: 0.36
+sigma_v: 0.21643
+Time (loop): 0.0048857
+log-likelihood: -34.0596
+Iteration: 98000
+Accept: 0.36
+sigma_v: 0.21643
+Time (loop): 0.004886
+log-likelihood: -35.5659
+Iteration: 99000
+Accept: 0.35
+sigma_v: 0.21643
+Time (loop): 0.0048861
+log-likelihood: -32.5615
+Iteration: 100000
+Accept: 0.25
+sigma_v: 0.21643
+Time (loop): 0.0048861
+log-likelihood: -32.265
+Iteration: 101000
+Accept: 0.37
+sigma_v: 0.21643
+Time (loop): 0.0048859
+log-likelihood: -34.6953
+Iteration: 102000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.004886
+log-likelihood: -33.2235
+Iteration: 103000
+Accept: 0.33
+sigma_v: 0.21643
+Time (loop): 0.0048864
+log-likelihood: -37.2472
+Iteration: 104000
+Accept: 0.29
+sigma_v: 0.21643
+Time (loop): 0.0048863
+log-likelihood: -31.9096
+Iteration: 105000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0048853
+log-likelihood: -32.5649
+Iteration: 106000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048839
+log-likelihood: -34.2223
+Iteration: 107000
+Accept: 0.28
+sigma_v: 0.21643
+Time (loop): 0.0048827
+log-likelihood: -36.8898
+Iteration: 108000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048813
+log-likelihood: -37.4568
+Iteration: 109000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0048796
+log-likelihood: -36.3494
+Iteration: 110000
+Accept: 0.21
+sigma_v: 0.21643
+Time (loop): 0.0048781
+log-likelihood: -37.2327
+Iteration: 111000
+Accept: 0.26
+sigma_v: 0.21643
+Time (loop): 0.0048767
+log-likelihood: -37.9269
+Iteration: 112000
+Accept: 0.3
+sigma_v: 0.21643
+Time (loop): 0.0048757
+log-likelihood: -39.3733
+Iteration: 113000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0048747
+log-likelihood: -37.4147
+Iteration: 114000
+Accept: 0.33
+sigma_v: 0.21643
+Time (loop): 0.0048735
+log-likelihood: -34.4639
+Iteration: 115000
+Accept: 0.16
+sigma_v: 0.21643
+Time (loop): 0.0048725
+log-likelihood: -38.0407
+Iteration: 116000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0048713
+log-likelihood: -39.0485
+Iteration: 117000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048702
+log-likelihood: -31.7496
+Iteration: 118000
+Accept: 0.2
+sigma_v: 0.21643
+Time (loop): 0.0048692
+log-likelihood: -37.9411
+Iteration: 119000
+Accept: 0.36
+sigma_v: 0.21643
+Time (loop): 0.0048678
+log-likelihood: -37.5632
+Iteration: 120000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0048665
+log-likelihood: -32.1499
+Iteration: 121000
+Accept: 0.27
+sigma_v: 0.21643
+Time (loop): 0.0048655
+log-likelihood: -31.2454
+Iteration: 122000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0048645
+log-likelihood: -35.5579
+Iteration: 123000
+Accept: 0.22
+sigma_v: 0.21643
+Time (loop): 0.0048636
+log-likelihood: -36.5814
+Iteration: 124000
+Accept: 0.23
+sigma_v: 0.21643
+Time (loop): 0.0048629
+log-likelihood: -33.7375
+Iteration: 125000
+Accept: 0.18
+sigma_v: 0.21643
+Time (loop): 0.0048621
+log-likelihood: -36.7414
+m = 5
+Iteration: 1000
+Accept: 0.1
+sigma_v: 0.43047
+Time (loop): 0.0055508
+log-likelihood: -35.1211
+Iteration: 2000
+Accept: 0.26
+sigma_v: 0.25419
+Time (loop): 0.005558
+log-likelihood: -34.7384
+Iteration: 3000
+Accept: 0.17
+sigma_v: 0.25419
+Time (loop): 0.0055622
+log-likelihood: -32.5757
+Iteration: 4000
+Accept: 0.15
+sigma_v: 0.27961
+Time (loop): 0.0055637
+log-likelihood: -35.386
+Iteration: 5000
+Accept: 0.16
+sigma_v: 0.25164
+Time (loop): 0.005562
+log-likelihood: -35.3912
+Iteration: 6000
+Accept: 0.29
+sigma_v: 0.24913
+Time (loop): 0.0055638
+log-likelihood: -32.6627
+Iteration: 7000
+Accept: 0.2
+sigma_v: 0.22422
+Time (loop): 0.0055775
+log-likelihood: -37.3471
+Iteration: 8000
+Accept: 0.3
+sigma_v: 0.22422
+Time (loop): 0.0055809
+log-likelihood: -38.7275
+Iteration: 9000
+Accept: 0.22
+sigma_v: 0.22422
+Time (loop): 0.0055813
+log-likelihood: -35.7206
+Iteration: 10000
+Accept: 0.31
+sigma_v: 0.20179
+Time (loop): 0.0055842
+log-likelihood: -31.4522
+Iteration: 11000
+Accept: 0.27
+sigma_v: 0.26859
+Time (loop): 0.0055874
+log-likelihood: -31.4808
+Iteration: 12000
+Accept: 0.23
+sigma_v: 0.26859
+Time (loop): 0.0055924
+log-likelihood: -31.4217
+Iteration: 13000
+Accept: 0.26
+sigma_v: 0.23931
+Time (loop): 0.0055943
+log-likelihood: -37.2017
+Iteration: 14000
+Accept: 0.38
+sigma_v: 0.31852
+Time (loop): 0.0055985
+log-likelihood: -36.7672
+Iteration: 15000
+Accept: 0.26
+sigma_v: 0.31219
+Time (loop): 0.0056011
+log-likelihood: -34.3418
+Iteration: 16000
+Accept: 0.14
+sigma_v: 0.33997
+Time (loop): 0.0056028
+log-likelihood: -35.8228
+Iteration: 17000
+Accept: 0.13
+sigma_v: 0.3332
+Time (loop): 0.0056053
+log-likelihood: -31.6796
+Iteration: 18000
+Accept: 0.24
+sigma_v: 0.29688
+Time (loop): 0.0056074
+log-likelihood: -33.081
+Iteration: 19000
+Accept: 0.21
+sigma_v: 0.29688
+Time (loop): 0.0056099
+log-likelihood: -31.7815
+Iteration: 20000
+Accept: 0.28
+sigma_v: 0.2672
+Time (loop): 0.0056111
+log-likelihood: -35.9819
+Iteration: 21000
+Accept: 0.29
+sigma_v: 0.29392
+Time (loop): 0.0056128
+log-likelihood: -31.9525
+Iteration: 22000
+Accept: 0.25
+sigma_v: 0.32007
+Time (loop): 0.0056146
+log-likelihood: -34.1179
+Iteration: 23000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0056156
+log-likelihood: -35.4404
+Iteration: 24000
+Accept: 0.29
+sigma_v: 0.28807
+Time (loop): 0.005616
+log-likelihood: -37.9644
+Iteration: 25000
+Accept: 0.26
+sigma_v: 0.28807
+Time (loop): 0.005618
+log-likelihood: -33.6576
+Iteration: 26000
+Accept: 0.14
+sigma_v: 0.28807
+Time (loop): 0.0056179
+log-likelihood: -35.4851
+Iteration: 27000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0056179
+log-likelihood: -33.7542
+Iteration: 28000
+Accept: 0.23
+sigma_v: 0.28807
+Time (loop): 0.0056176
+log-likelihood: -33.6889
+Iteration: 29000
+Accept: 0.25
+sigma_v: 0.28807
+Time (loop): 0.0056217
+log-likelihood: -35.3807
+Iteration: 30000
+Accept: 0.14
+sigma_v: 0.28807
+Time (loop): 0.0056207
+log-likelihood: -38.9954
+Iteration: 31000
+Accept: 0.09
+sigma_v: 0.28807
+Time (loop): 0.0056205
+log-likelihood: -35.9526
+Iteration: 32000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.0056222
+log-likelihood: -38.0289
+Iteration: 33000
+Accept: 0.26
+sigma_v: 0.28807
+Time (loop): 0.0056227
+log-likelihood: -34.3152
+Iteration: 34000
+Accept: 0.21
+sigma_v: 0.28807
+Time (loop): 0.0056229
+log-likelihood: -37.3047
+Iteration: 35000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0056249
+log-likelihood: -32.9593
+Iteration: 36000
+Accept: 0.24
+sigma_v: 0.28807
+Time (loop): 0.0056259
+log-likelihood: -40.2364
+Iteration: 37000
+Accept: 0.29
+sigma_v: 0.28807
+Time (loop): 0.0056264
+log-likelihood: -35.8395
+Iteration: 38000
+Accept: 0.23
+sigma_v: 0.28807
+Time (loop): 0.0056282
+log-likelihood: -36.6759
+Iteration: 39000
+Accept: 0.28
+sigma_v: 0.28807
+Time (loop): 0.0056295
+log-likelihood: -33.3704
+Iteration: 40000
+Accept: 0.42
+sigma_v: 0.28807
+Time (loop): 0.0056289
+log-likelihood: -34.5887
+Iteration: 41000
+Accept: 0.14
+sigma_v: 0.28807
+Time (loop): 0.0056284
+log-likelihood: -34.1811
+Iteration: 42000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0056271
+log-likelihood: -33.4584
+Iteration: 43000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0056255
+log-likelihood: -31.2618
+Iteration: 44000
+Accept: 0.13
+sigma_v: 0.28807
+Time (loop): 0.0056244
+log-likelihood: -37.6296
+Iteration: 45000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.0056235
+log-likelihood: -37.8719
+Iteration: 46000
+Accept: 0.11
+sigma_v: 0.28807
+Time (loop): 0.0056221
+log-likelihood: -34.9549
+Iteration: 47000
+Accept: 0.13
+sigma_v: 0.28807
+Time (loop): 0.0056212
+log-likelihood: -38.2124
+Iteration: 48000
+Accept: 0.14
+sigma_v: 0.28807
+Time (loop): 0.0056193
+log-likelihood: -33.6868
+Iteration: 49000
+Accept: 0.17
+sigma_v: 0.28807
+Time (loop): 0.0056184
+log-likelihood: -37.2708
+Iteration: 50000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0056182
+log-likelihood: -33.2734
+Iteration: 51000
+Accept: 0.09
+sigma_v: 0.28807
+Time (loop): 0.005618
+log-likelihood: -37.1134
+Iteration: 52000
+Accept: 0.13
+sigma_v: 0.28807
+Time (loop): 0.0056177
+log-likelihood: -36.1945
+Iteration: 53000
+Accept: 0.21
+sigma_v: 0.28807
+Time (loop): 0.0056175
+log-likelihood: -33.1547
+Iteration: 54000
+Accept: 0.25
+sigma_v: 0.28807
+Time (loop): 0.0056175
+log-likelihood: -35.0325
+Iteration: 55000
+Accept: 0.26
+sigma_v: 0.28807
+Time (loop): 0.0056175
+log-likelihood: -34.826
+Iteration: 56000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0056156
+log-likelihood: -31.7266
+Iteration: 57000
+Accept: 0.17
+sigma_v: 0.28807
+Time (loop): 0.0056148
+log-likelihood: -35.8723
+Iteration: 58000
+Accept: 0.1
+sigma_v: 0.28807
+Time (loop): 0.005613
+log-likelihood: -35.2123
+Iteration: 59000
+Accept: 0.22
+sigma_v: 0.28807
+Time (loop): 0.0056113
+log-likelihood: -31.6696
+Iteration: 60000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0056102
+log-likelihood: -32.134
+Iteration: 61000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0056085
+log-likelihood: -34.3973
+Iteration: 62000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0056074
+log-likelihood: -38.6567
+Iteration: 63000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0056069
+log-likelihood: -35.221
+Iteration: 64000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0056068
+log-likelihood: -37.5351
+Iteration: 65000
+Accept: 0.24
+sigma_v: 0.28807
+Time (loop): 0.0056067
+log-likelihood: -34.2448
+Iteration: 66000
+Accept: 0.07
+sigma_v: 0.28807
+Time (loop): 0.0056065
+log-likelihood: -31.5108
+Iteration: 67000
+Accept: 0.12
+sigma_v: 0.28807
+Time (loop): 0.0056059
+log-likelihood: -36.5247
+Iteration: 68000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0056046
+log-likelihood: -39.0499
+Iteration: 69000
+Accept: 0.26
+sigma_v: 0.28807
+Time (loop): 0.0056036
+log-likelihood: -36.1969
+Iteration: 70000
+Accept: 0.16
+sigma_v: 0.28807
+Time (loop): 0.0056027
+log-likelihood: -34.7077
+Iteration: 71000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.0056025
+log-likelihood: -37.4231
+Iteration: 72000
+Accept: 0.16
+sigma_v: 0.28807
+Time (loop): 0.0056021
+log-likelihood: -38.2903
+Iteration: 73000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0056013
+log-likelihood: -37.6583
+Iteration: 74000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.0056008
+log-likelihood: -35.9107
+Iteration: 75000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0056008
+log-likelihood: -33.745
+Iteration: 76000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0056007
+log-likelihood: -35.1961
+Iteration: 77000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0055998
+log-likelihood: -37.5122
+Iteration: 78000
+Accept: 0.22
+sigma_v: 0.28807
+Time (loop): 0.0055994
+log-likelihood: -37.7926
+Iteration: 79000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0055994
+log-likelihood: -37.4687
+Iteration: 80000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0055991
+log-likelihood: -37.0416
+Iteration: 81000
+Accept: 0.24
+sigma_v: 0.28807
+Time (loop): 0.0055985
+log-likelihood: -31.8785
+Iteration: 82000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0055982
+log-likelihood: -31.2215
+Iteration: 83000
+Accept: 0.21
+sigma_v: 0.28807
+Time (loop): 0.0055978
+log-likelihood: -35.4049
+Iteration: 84000
+Accept: 0.17
+sigma_v: 0.28807
+Time (loop): 0.0055974
+log-likelihood: -34.4247
+Iteration: 85000
+Accept: 0.16
+sigma_v: 0.28807
+Time (loop): 0.0055971
+log-likelihood: -38.1904
+Iteration: 86000
+Accept: 0.16
+sigma_v: 0.28807
+Time (loop): 0.0055968
+log-likelihood: -31.315
+Iteration: 87000
+Accept: 0.11
+sigma_v: 0.28807
+Time (loop): 0.0055962
+log-likelihood: -35.8958
+Iteration: 88000
+Accept: 0.25
+sigma_v: 0.28807
+Time (loop): 0.0055956
+log-likelihood: -35.3092
+Iteration: 89000
+Accept: 0.31
+sigma_v: 0.28807
+Time (loop): 0.0055954
+log-likelihood: -32.6971
+Iteration: 90000
+Accept: 0.16
+sigma_v: 0.28807
+Time (loop): 0.0055948
+log-likelihood: -31.9854
+Iteration: 91000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.0055944
+log-likelihood: -32.7102
+Iteration: 92000
+Accept: 0.22
+sigma_v: 0.28807
+Time (loop): 0.0055943
+log-likelihood: -33.1852
+Iteration: 93000
+Accept: 0.28
+sigma_v: 0.28807
+Time (loop): 0.0055942
+log-likelihood: -36.0593
+Iteration: 94000
+Accept: 0.13
+sigma_v: 0.28807
+Time (loop): 0.005594
+log-likelihood: -32.4104
+Iteration: 95000
+Accept: 0.23
+sigma_v: 0.28807
+Time (loop): 0.0055938
+log-likelihood: -36.9478
+Iteration: 96000
+Accept: 0.24
+sigma_v: 0.28807
+Time (loop): 0.005594
+log-likelihood: -32.2101
+Iteration: 97000
+Accept: 0.14
+sigma_v: 0.28807
+Time (loop): 0.0055941
+log-likelihood: -32.0915
+Iteration: 98000
+Accept: 0.16
+sigma_v: 0.28807
+Time (loop): 0.0055938
+log-likelihood: -31.2589
+Iteration: 99000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0055936
+log-likelihood: -37.2226
+Iteration: 100000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0055933
+log-likelihood: -35.9313
+Iteration: 101000
+Accept: 0.17
+sigma_v: 0.28807
+Time (loop): 0.0055931
+log-likelihood: -32.9244
+Iteration: 102000
+Accept: 0.22
+sigma_v: 0.28807
+Time (loop): 0.0055931
+log-likelihood: -34.4968
+Iteration: 103000
+Accept: 0.34
+sigma_v: 0.28807
+Time (loop): 0.0055931
+log-likelihood: -33.5956
+Iteration: 104000
+Accept: 0.26
+sigma_v: 0.28807
+Time (loop): 0.0055929
+log-likelihood: -33.7714
+Iteration: 105000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0055924
+log-likelihood: -33.9588
+Iteration: 106000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.0055918
+log-likelihood: -35.8795
+Iteration: 107000
+Accept: 0.06
+sigma_v: 0.28807
+Time (loop): 0.0055912
+log-likelihood: -36.6397
+Iteration: 108000
+Accept: 0.13
+sigma_v: 0.28807
+Time (loop): 0.0055909
+log-likelihood: -35.2731
+Iteration: 109000
+Accept: 0.21
+sigma_v: 0.28807
+Time (loop): 0.0055902
+log-likelihood: -31.6361
+Iteration: 110000
+Accept: 0.19
+sigma_v: 0.28807
+Time (loop): 0.0055898
+log-likelihood: -39.9305
+Iteration: 111000
+Accept: 0.23
+sigma_v: 0.28807
+Time (loop): 0.0055892
+log-likelihood: -35.3486
+Iteration: 112000
+Accept: 0.25
+sigma_v: 0.28807
+Time (loop): 0.0055889
+log-likelihood: -31.5877
+Iteration: 113000
+Accept: 0.2
+sigma_v: 0.28807
+Time (loop): 0.0055885
+log-likelihood: -36.7561
+Iteration: 114000
+Accept: 0.18
+sigma_v: 0.28807
+Time (loop): 0.005588
+log-likelihood: -34.8696
+Iteration: 115000
+Accept: 0.17
+sigma_v: 0.28807
+Time (loop): 0.0055877
+log-likelihood: -36.3263
+Iteration: 116000
+Accept: 0.21
+sigma_v: 0.28807
+Time (loop): 0.0055876
+log-likelihood: -31.5435
+Iteration: 117000
+Accept: 0.33
+sigma_v: 0.28807
+Time (loop): 0.0055875
+log-likelihood: -31.5228
+Iteration: 118000
+Accept: 0.11
+sigma_v: 0.28807
+Time (loop): 0.0055876
+log-likelihood: -35.0886
+Iteration: 119000
+Accept: 0.21
+sigma_v: 0.28807
+Time (loop): 0.0055875
+log-likelihood: -31.2789
+Iteration: 120000
+Accept: 0.32
+sigma_v: 0.28807
+Time (loop): 0.0055876
+log-likelihood: -31.9357
+Iteration: 121000
+Accept: 0.15
+sigma_v: 0.28807
+Time (loop): 0.0055874
+log-likelihood: -37.8556
+Iteration: 122000
+Accept: 0.27
+sigma_v: 0.28807
+Time (loop): 0.0055876
+log-likelihood: -31.4101
+Iteration: 123000
+Accept: 0.23
+sigma_v: 0.28807
+Time (loop): 0.0055873
+log-likelihood: -33.6589
+Iteration: 124000
+Accept: 0.22
+sigma_v: 0.28807
+Time (loop): 0.0055869
+log-likelihood: -35.1981
+Iteration: 125000
+Accept: 0.42
+sigma_v: 0.28807
+Time (loop): 0.0055868
+log-likelihood: -37.6324
+m = 6
+Iteration: 1000
+Accept: 0.12
+sigma_v: 0.4783
+Time (loop): 0.0063542
+log-likelihood: -32.0922
+Iteration: 2000
+Accept: 0.12
+sigma_v: 0.31381
+Time (loop): 0.0063502
+log-likelihood: -38.7157
+Iteration: 3000
+Accept: 0.17
+sigma_v: 0.30757
+Time (loop): 0.006345
+log-likelihood: -31.3548
+Iteration: 4000
+Accept: 0.3
+sigma_v: 0.30757
+Time (loop): 0.0063423
+log-likelihood: -31.9395
+Iteration: 5000
+Accept: 0.27
+sigma_v: 0.27681
+Time (loop): 0.0063458
+log-likelihood: -33.3138
+Iteration: 6000
+Accept: 0.18
+sigma_v: 0.27681
+Time (loop): 0.0063504
+log-likelihood: -36.5509
+Iteration: 7000
+Accept: 0.29
+sigma_v: 0.22422
+Time (loop): 0.0063482
+log-likelihood: -37.4798
+Iteration: 8000
+Accept: 0.17
+sigma_v: 0.22422
+Time (loop): 0.006346
+log-likelihood: -35.7349
+Iteration: 9000
+Accept: 0.16
+sigma_v: 0.22422
+Time (loop): 0.0063412
+log-likelihood: -37.8268
+Iteration: 10000
+Accept: 0.28
+sigma_v: 0.22197
+Time (loop): 0.006338
+log-likelihood: -38.8094
+Iteration: 11000
+Accept: 0.33
+sigma_v: 0.19978
+Time (loop): 0.0063399
+log-likelihood: -36.6403
+Iteration: 12000
+Accept: 0.28
+sigma_v: 0.23931
+Time (loop): 0.006343
+log-likelihood: -31.9925
+Iteration: 13000
+Accept: 0.31
+sigma_v: 0.23931
+Time (loop): 0.0063458
+log-likelihood: -32.7393
+Iteration: 14000
+Accept: 0.23
+sigma_v: 0.26324
+Time (loop): 0.006347
+log-likelihood: -36.0449
+Iteration: 15000
+Accept: 0.2
+sigma_v: 0.26324
+Time (loop): 0.0063466
+log-likelihood: -31.7973
+Iteration: 16000
+Accept: 0.19
+sigma_v: 0.23692
+Time (loop): 0.006347
+log-likelihood: -37.7156
+Iteration: 17000
+Accept: 0.2
+sigma_v: 0.28667
+Time (loop): 0.006348
+log-likelihood: -31.264
+Iteration: 18000
+Accept: 0.27
+sigma_v: 0.28667
+Time (loop): 0.0063483
+log-likelihood: -36.309
+Iteration: 19000
+Accept: 0.16
+sigma_v: 0.258
+Time (loop): 0.0063495
+log-likelihood: -38.2897
+Iteration: 20000
+Accept: 0.23
+sigma_v: 0.258
+Time (loop): 0.0063491
+log-likelihood: -35.8213
+Iteration: 21000
+Accept: 0.13
+sigma_v: 0.25542
+Time (loop): 0.00635
+log-likelihood: -35.2426
+Iteration: 22000
+Accept: 0.22
+sigma_v: 0.22988
+Time (loop): 0.0063486
+log-likelihood: -31.9462
+Iteration: 23000
+Accept: 0.21
+sigma_v: 0.22988
+Time (loop): 0.006349
+log-likelihood: -39.178
+Iteration: 24000
+Accept: 0.3
+sigma_v: 0.22988
+Time (loop): 0.0063494
+log-likelihood: -35.1545
+Iteration: 25000
+Accept: 0.12
+sigma_v: 0.25287
+Time (loop): 0.0063499
+log-likelihood: -35.9607
+Iteration: 26000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.0063491
+log-likelihood: -37.0017
+Iteration: 27000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.0063483
+log-likelihood: -34.9555
+Iteration: 28000
+Accept: 0.18
+sigma_v: 0.22758
+Time (loop): 0.0063494
+log-likelihood: -37.925
+Iteration: 29000
+Accept: 0.16
+sigma_v: 0.22758
+Time (loop): 0.00635
+log-likelihood: -32.5818
+Iteration: 30000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.0063508
+log-likelihood: -31.3768
+Iteration: 31000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.0063517
+log-likelihood: -32.8459
+Iteration: 32000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.006351
+log-likelihood: -35.874
+Iteration: 33000
+Accept: 0.38
+sigma_v: 0.22758
+Time (loop): 0.0063502
+log-likelihood: -35.6649
+Iteration: 34000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.0063505
+log-likelihood: -36.1618
+Iteration: 35000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.0063505
+log-likelihood: -36.5256
+Iteration: 36000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063506
+log-likelihood: -36.8771
+Iteration: 37000
+Accept: 0.33
+sigma_v: 0.22758
+Time (loop): 0.0063505
+log-likelihood: -37.5103
+Iteration: 38000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063503
+log-likelihood: -36.8335
+Iteration: 39000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.0063496
+log-likelihood: -36.9172
+Iteration: 40000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.006349
+log-likelihood: -38.1076
+Iteration: 41000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.0063493
+log-likelihood: -34.7677
+Iteration: 42000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.006349
+log-likelihood: -38.3714
+Iteration: 43000
+Accept: 0.25
+sigma_v: 0.22758
+Time (loop): 0.0063488
+log-likelihood: -35.5792
+Iteration: 44000
+Accept: 0.18
+sigma_v: 0.22758
+Time (loop): 0.0063487
+log-likelihood: -35.5478
+Iteration: 45000
+Accept: 0.15
+sigma_v: 0.22758
+Time (loop): 0.0063481
+log-likelihood: -34.4535
+Iteration: 46000
+Accept: 0.34
+sigma_v: 0.22758
+Time (loop): 0.0063478
+log-likelihood: -37.6767
+Iteration: 47000
+Accept: 0.3
+sigma_v: 0.22758
+Time (loop): 0.0063473
+log-likelihood: -37.682
+Iteration: 48000
+Accept: 0.24
+sigma_v: 0.22758
+Time (loop): 0.0063459
+log-likelihood: -38.1654
+Iteration: 49000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063455
+log-likelihood: -37.416
+Iteration: 50000
+Accept: 0.18
+sigma_v: 0.22758
+Time (loop): 0.0063454
+log-likelihood: -32.799
+Iteration: 51000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063445
+log-likelihood: -34.0293
+Iteration: 52000
+Accept: 0.25
+sigma_v: 0.22758
+Time (loop): 0.0063443
+log-likelihood: -32.4075
+Iteration: 53000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.0063444
+log-likelihood: -35.7544
+Iteration: 54000
+Accept: 0.38
+sigma_v: 0.22758
+Time (loop): 0.0063445
+log-likelihood: -33.9165
+Iteration: 55000
+Accept: 0.35
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -32.5676
+Iteration: 56000
+Accept: 0.4
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -35.207
+Iteration: 57000
+Accept: 0.34
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -34.4289
+Iteration: 58000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063441
+log-likelihood: -35.6996
+Iteration: 59000
+Accept: 0.37
+sigma_v: 0.22758
+Time (loop): 0.0063438
+log-likelihood: -32.6358
+Iteration: 60000
+Accept: 0.39
+sigma_v: 0.22758
+Time (loop): 0.006344
+log-likelihood: -33.2544
+Iteration: 61000
+Accept: 0.16
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -32.5686
+Iteration: 62000
+Accept: 0.19
+sigma_v: 0.22758
+Time (loop): 0.006344
+log-likelihood: -38.6592
+Iteration: 63000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063441
+log-likelihood: -32.7803
+Iteration: 64000
+Accept: 0.16
+sigma_v: 0.22758
+Time (loop): 0.0063441
+log-likelihood: -31.9789
+Iteration: 65000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063435
+log-likelihood: -31.6599
+Iteration: 66000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.0063431
+log-likelihood: -37.5511
+Iteration: 67000
+Accept: 0.21
+sigma_v: 0.22758
+Time (loop): 0.0063426
+log-likelihood: -35.4675
+Iteration: 68000
+Accept: 0.19
+sigma_v: 0.22758
+Time (loop): 0.0063422
+log-likelihood: -37.2761
+Iteration: 69000
+Accept: 0.21
+sigma_v: 0.22758
+Time (loop): 0.0063421
+log-likelihood: -37.6378
+Iteration: 70000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063426
+log-likelihood: -33.0061
+Iteration: 71000
+Accept: 0.15
+sigma_v: 0.22758
+Time (loop): 0.0063425
+log-likelihood: -36.4439
+Iteration: 72000
+Accept: 0.29
+sigma_v: 0.22758
+Time (loop): 0.0063429
+log-likelihood: -32.5382
+Iteration: 73000
+Accept: 0.39
+sigma_v: 0.22758
+Time (loop): 0.0063431
+log-likelihood: -40.3336
+Iteration: 74000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063426
+log-likelihood: -34.4267
+Iteration: 75000
+Accept: 0.3
+sigma_v: 0.22758
+Time (loop): 0.0063423
+log-likelihood: -38.4126
+Iteration: 76000
+Accept: 0.35
+sigma_v: 0.22758
+Time (loop): 0.0063426
+log-likelihood: -36.0704
+Iteration: 77000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.0063428
+log-likelihood: -31.7334
+Iteration: 78000
+Accept: 0.3
+sigma_v: 0.22758
+Time (loop): 0.0063436
+log-likelihood: -37.402
+Iteration: 79000
+Accept: 0.2
+sigma_v: 0.22758
+Time (loop): 0.006344
+log-likelihood: -31.5263
+Iteration: 80000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063441
+log-likelihood: -35.9007
+Iteration: 81000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063439
+log-likelihood: -40.4634
+Iteration: 82000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.006344
+log-likelihood: -39.225
+Iteration: 83000
+Accept: 0.17
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -37.8797
+Iteration: 84000
+Accept: 0.29
+sigma_v: 0.22758
+Time (loop): 0.0063443
+log-likelihood: -37.6582
+Iteration: 85000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -38.3881
+Iteration: 86000
+Accept: 0.5
+sigma_v: 0.22758
+Time (loop): 0.0063445
+log-likelihood: -34.8281
+Iteration: 87000
+Accept: 0.43
+sigma_v: 0.22758
+Time (loop): 0.0063447
+log-likelihood: -33.8611
+Iteration: 88000
+Accept: 0.25
+sigma_v: 0.22758
+Time (loop): 0.0063445
+log-likelihood: -31.286
+Iteration: 89000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063445
+log-likelihood: -33.5273
+Iteration: 90000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063446
+log-likelihood: -37.6472
+Iteration: 91000
+Accept: 0.2
+sigma_v: 0.22758
+Time (loop): 0.0063442
+log-likelihood: -39.999
+Iteration: 92000
+Accept: 0.19
+sigma_v: 0.22758
+Time (loop): 0.0063438
+log-likelihood: -31.5888
+Iteration: 93000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063435
+log-likelihood: -38.5795
+Iteration: 94000
+Accept: 0.22
+sigma_v: 0.22758
+Time (loop): 0.0063434
+log-likelihood: -35.9869
+Iteration: 95000
+Accept: 0.21
+sigma_v: 0.22758
+Time (loop): 0.0063431
+log-likelihood: -35.5458
+Iteration: 96000
+Accept: 0.24
+sigma_v: 0.22758
+Time (loop): 0.0063431
+log-likelihood: -35.8348
+Iteration: 97000
+Accept: 0.13
+sigma_v: 0.22758
+Time (loop): 0.006343
+log-likelihood: -37.6895
+Iteration: 98000
+Accept: 0.28
+sigma_v: 0.22758
+Time (loop): 0.0063426
+log-likelihood: -38.5345
+Iteration: 99000
+Accept: 0.17
+sigma_v: 0.22758
+Time (loop): 0.0063424
+log-likelihood: -38.3805
+Iteration: 100000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0063421
+log-likelihood: -37.7778
+Iteration: 101000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063419
+log-likelihood: -33.3035
+Iteration: 102000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.006342
+log-likelihood: -36.7035
+Iteration: 103000
+Accept: 0.28
+sigma_v: 0.22758
+Time (loop): 0.0063422
+log-likelihood: -37.6575
+Iteration: 104000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.006342
+log-likelihood: -36.2724
+Iteration: 105000
+Accept: 0.19
+sigma_v: 0.22758
+Time (loop): 0.0063416
+log-likelihood: -38.3976
+Iteration: 106000
+Accept: 0.4
+sigma_v: 0.22758
+Time (loop): 0.0063417
+log-likelihood: -34.4119
+Iteration: 107000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063417
+log-likelihood: -32.6295
+Iteration: 108000
+Accept: 0.34
+sigma_v: 0.22758
+Time (loop): 0.0063416
+log-likelihood: -32.2448
+Iteration: 109000
+Accept: 0.38
+sigma_v: 0.22758
+Time (loop): 0.0063417
+log-likelihood: -34.2361
+Iteration: 110000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.0063418
+log-likelihood: -31.5231
+Iteration: 111000
+Accept: 0.17
+sigma_v: 0.22758
+Time (loop): 0.0063419
+log-likelihood: -35.6937
+Iteration: 112000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063419
+log-likelihood: -31.7775
+Iteration: 113000
+Accept: 0.23
+sigma_v: 0.22758
+Time (loop): 0.006342
+log-likelihood: -35.7371
+Iteration: 114000
+Accept: 0.18
+sigma_v: 0.22758
+Time (loop): 0.0063419
+log-likelihood: -34.0026
+Iteration: 115000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063419
+log-likelihood: -34.0442
+Iteration: 116000
+Accept: 0.36
+sigma_v: 0.22758
+Time (loop): 0.006342
+log-likelihood: -36.8605
+Iteration: 117000
+Accept: 0.33
+sigma_v: 0.22758
+Time (loop): 0.0063422
+log-likelihood: -33.3133
+Iteration: 118000
+Accept: 0.3
+sigma_v: 0.22758
+Time (loop): 0.0063423
+log-likelihood: -31.822
+Iteration: 119000
+Accept: 0.28
+sigma_v: 0.22758
+Time (loop): 0.0063425
+log-likelihood: -34.8113
+Iteration: 120000
+Accept: 0.35
+sigma_v: 0.22758
+Time (loop): 0.0063425
+log-likelihood: -33.7029
+Iteration: 121000
+Accept: 0.31
+sigma_v: 0.22758
+Time (loop): 0.0063426
+log-likelihood: -32.5911
+Iteration: 122000
+Accept: 0.35
+sigma_v: 0.22758
+Time (loop): 0.0063429
+log-likelihood: -34.1857
+Iteration: 123000
+Accept: 0.25
+sigma_v: 0.22758
+Time (loop): 0.0063428
+log-likelihood: -32.1201
+Iteration: 124000
+Accept: 0.32
+sigma_v: 0.22758
+Time (loop): 0.006343
+log-likelihood: -31.2532
+Iteration: 125000
+Accept: 0.25
+sigma_v: 0.22758
+Time (loop): 0.006343
+log-likelihood: -31.6856
+m = 7
+Iteration: 1000
+Accept: 0.09
+sigma_v: 0.4783
+Time (loop): 0.0067676
+log-likelihood: -34.414
+Iteration: 2000
+Accept: 0.23
+sigma_v: 0.31381
+Time (loop): 0.0067357
+log-likelihood: -35.8799
+Iteration: 3000
+Accept: 0.23
+sigma_v: 0.25419
+Time (loop): 0.0067192
+log-likelihood: -33.5873
+Iteration: 4000
+Accept: 0.26
+sigma_v: 0.25419
+Time (loop): 0.0067167
+log-likelihood: -36.3786
+Iteration: 5000
+Accept: 0.22
+sigma_v: 0.27961
+Time (loop): 0.0067162
+log-likelihood: -35.8369
+Iteration: 6000
+Accept: 0.31
+sigma_v: 0.25164
+Time (loop): 0.0067129
+log-likelihood: -34.2078
+Iteration: 7000
+Accept: 0.11
+sigma_v: 0.27404
+Time (loop): 0.0067125
+log-likelihood: -36.2737
+Iteration: 8000
+Accept: 0.32
+sigma_v: 0.24664
+Time (loop): 0.0067118
+log-likelihood: -33.9659
+Iteration: 9000
+Accept: 0.26
+sigma_v: 0.29545
+Time (loop): 0.0067163
+log-likelihood: -36.0976
+Iteration: 10000
+Accept: 0.28
+sigma_v: 0.32499
+Time (loop): 0.0067222
+log-likelihood: -36.3041
+Iteration: 11000
+Accept: 0.21
+sigma_v: 0.23692
+Time (loop): 0.0067263
+log-likelihood: -32.0212
+Iteration: 12000
+Accept: 0.13
+sigma_v: 0.28667
+Time (loop): 0.0067252
+log-likelihood: -35.7282
+Iteration: 13000
+Accept: 0.21
+sigma_v: 0.25287
+Time (loop): 0.0067289
+log-likelihood: -34.1585
+Iteration: 14000
+Accept: 0.26
+sigma_v: 0.22758
+Time (loop): 0.0067294
+log-likelihood: -36.3285
+Iteration: 15000
+Accept: 0.16
+sigma_v: 0.22758
+Time (loop): 0.0067299
+log-likelihood: -40.0068
+Iteration: 16000
+Accept: 0.23
+sigma_v: 0.22531
+Time (loop): 0.0067292
+log-likelihood: -38.3398
+Iteration: 17000
+Accept: 0.33
+sigma_v: 0.22305
+Time (loop): 0.0067261
+log-likelihood: -33.3125
+Iteration: 18000
+Accept: 0.2
+sigma_v: 0.32657
+Time (loop): 0.0067261
+log-likelihood: -31.9654
+Iteration: 19000
+Accept: 0.24
+sigma_v: 0.32331
+Time (loop): 0.0067274
+log-likelihood: -37.475
+Iteration: 20000
+Accept: 0.15
+sigma_v: 0.35564
+Time (loop): 0.006729
+log-likelihood: -36.4507
+Iteration: 21000
+Accept: 0.4
+sigma_v: 0.35208
+Time (loop): 0.0067295
+log-likelihood: -34.4599
+Iteration: 22000
+Accept: 0.24
+sigma_v: 0.28233
+Time (loop): 0.0067286
+log-likelihood: -35.1537
+Iteration: 23000
+Accept: 0.25
+sigma_v: 0.28233
+Time (loop): 0.0067251
+log-likelihood: -39.16
+Iteration: 24000
+Accept: 0.23
+sigma_v: 0.22869
+Time (loop): 0.0067224
+log-likelihood: -34.0145
+Iteration: 25000
+Accept: 0.26
+sigma_v: 0.22869
+Time (loop): 0.0067209
+log-likelihood: -36.9082
+Iteration: 26000
+Accept: 0.24
+sigma_v: 0.22869
+Time (loop): 0.0067186
+log-likelihood: -35.7725
+Iteration: 27000
+Accept: 0.26
+sigma_v: 0.22869
+Time (loop): 0.0067172
+log-likelihood: -31.4907
+Iteration: 28000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.006717
+log-likelihood: -34.537
+Iteration: 29000
+Accept: 0.36
+sigma_v: 0.22869
+Time (loop): 0.0067176
+log-likelihood: -34.0911
+Iteration: 30000
+Accept: 0.3
+sigma_v: 0.22869
+Time (loop): 0.0067164
+log-likelihood: -32.92
+Iteration: 31000
+Accept: 0.41
+sigma_v: 0.22869
+Time (loop): 0.0067175
+log-likelihood: -37.2115
+Iteration: 32000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.0067182
+log-likelihood: -37.8793
+Iteration: 33000
+Accept: 0.36
+sigma_v: 0.22869
+Time (loop): 0.0067199
+log-likelihood: -32.4674
+Iteration: 34000
+Accept: 0.26
+sigma_v: 0.22869
+Time (loop): 0.0067211
+log-likelihood: -36.0311
+Iteration: 35000
+Accept: 0.47
+sigma_v: 0.22869
+Time (loop): 0.0067222
+log-likelihood: -35.077
+Iteration: 36000
+Accept: 0.42
+sigma_v: 0.22869
+Time (loop): 0.0067227
+log-likelihood: -31.4112
+Iteration: 37000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.0067229
+log-likelihood: -33.3119
+Iteration: 38000
+Accept: 0.25
+sigma_v: 0.22869
+Time (loop): 0.0067236
+log-likelihood: -31.4749
+Iteration: 39000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0067223
+log-likelihood: -35.5731
+Iteration: 40000
+Accept: 0.4
+sigma_v: 0.22869
+Time (loop): 0.0067223
+log-likelihood: -35.1559
+Iteration: 41000
+Accept: 0.35
+sigma_v: 0.22869
+Time (loop): 0.0067223
+log-likelihood: -33.9679
+Iteration: 42000
+Accept: 0.47
+sigma_v: 0.22869
+Time (loop): 0.0067219
+log-likelihood: -33.8781
+Iteration: 43000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0067219
+log-likelihood: -36.4932
+Iteration: 44000
+Accept: 0.38
+sigma_v: 0.22869
+Time (loop): 0.0067219
+log-likelihood: -37.6446
+Iteration: 45000
+Accept: 0.44
+sigma_v: 0.22869
+Time (loop): 0.0067225
+log-likelihood: -34.1966
+Iteration: 46000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.0067224
+log-likelihood: -36.0977
+Iteration: 47000
+Accept: 0.37
+sigma_v: 0.22869
+Time (loop): 0.0067221
+log-likelihood: -36.7419
+Iteration: 48000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.0067218
+log-likelihood: -32.1693
+Iteration: 49000
+Accept: 0.28
+sigma_v: 0.22869
+Time (loop): 0.0067218
+log-likelihood: -36.2675
+Iteration: 50000
+Accept: 0.3
+sigma_v: 0.22869
+Time (loop): 0.006719
+log-likelihood: -31.9506
+Iteration: 51000
+Accept: 0.26
+sigma_v: 0.22869
+Time (loop): 0.006715
+log-likelihood: -32.1984
+Iteration: 52000
+Accept: 0.17
+sigma_v: 0.22869
+Time (loop): 0.0067109
+log-likelihood: -31.9021
+Iteration: 53000
+Accept: 0.21
+sigma_v: 0.22869
+Time (loop): 0.0067071
+log-likelihood: -33.179
+Iteration: 54000
+Accept: 0.21
+sigma_v: 0.22869
+Time (loop): 0.0067037
+log-likelihood: -38.018
+Iteration: 55000
+Accept: 0.23
+sigma_v: 0.22869
+Time (loop): 0.0067005
+log-likelihood: -37.4104
+Iteration: 56000
+Accept: 0.19
+sigma_v: 0.22869
+Time (loop): 0.0066974
+log-likelihood: -39.413
+Iteration: 57000
+Accept: 0.17
+sigma_v: 0.22869
+Time (loop): 0.0066937
+log-likelihood: -31.8732
+Iteration: 58000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0066913
+log-likelihood: -32.0542
+Iteration: 59000
+Accept: 0.41
+sigma_v: 0.22869
+Time (loop): 0.0066884
+log-likelihood: -34.0268
+Iteration: 60000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.0066864
+log-likelihood: -31.6115
+Iteration: 61000
+Accept: 0.37
+sigma_v: 0.22869
+Time (loop): 0.0066841
+log-likelihood: -35.3096
+Iteration: 62000
+Accept: 0.25
+sigma_v: 0.22869
+Time (loop): 0.0066818
+log-likelihood: -31.4174
+Iteration: 63000
+Accept: 0.19
+sigma_v: 0.22869
+Time (loop): 0.0066794
+log-likelihood: -36.0165
+Iteration: 64000
+Accept: 0.28
+sigma_v: 0.22869
+Time (loop): 0.0066771
+log-likelihood: -33.1083
+Iteration: 65000
+Accept: 0.21
+sigma_v: 0.22869
+Time (loop): 0.006675
+log-likelihood: -31.9982
+Iteration: 66000
+Accept: 0.22
+sigma_v: 0.22869
+Time (loop): 0.0066726
+log-likelihood: -38.2932
+Iteration: 67000
+Accept: 0.24
+sigma_v: 0.22869
+Time (loop): 0.0066707
+log-likelihood: -34.2951
+Iteration: 68000
+Accept: 0.19
+sigma_v: 0.22869
+Time (loop): 0.0066692
+log-likelihood: -37.0042
+Iteration: 69000
+Accept: 0.19
+sigma_v: 0.22869
+Time (loop): 0.0066673
+log-likelihood: -37.3973
+Iteration: 70000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0066655
+log-likelihood: -32.3396
+Iteration: 71000
+Accept: 0.33
+sigma_v: 0.22869
+Time (loop): 0.0066637
+log-likelihood: -31.9965
+Iteration: 72000
+Accept: 0.18
+sigma_v: 0.22869
+Time (loop): 0.0066617
+log-likelihood: -35.8491
+Iteration: 73000
+Accept: 0.23
+sigma_v: 0.22869
+Time (loop): 0.0066591
+log-likelihood: -35.7776
+Iteration: 74000
+Accept: 0.23
+sigma_v: 0.22869
+Time (loop): 0.0066573
+log-likelihood: -32.4186
+Iteration: 75000
+Accept: 0.24
+sigma_v: 0.22869
+Time (loop): 0.0066556
+log-likelihood: -37.0446
+Iteration: 76000
+Accept: 0.43
+sigma_v: 0.22869
+Time (loop): 0.0066546
+log-likelihood: -32.099
+Iteration: 77000
+Accept: 0.16
+sigma_v: 0.22869
+Time (loop): 0.0066528
+log-likelihood: -34.2447
+Iteration: 78000
+Accept: 0.21
+sigma_v: 0.22869
+Time (loop): 0.0066507
+log-likelihood: -34.8101
+Iteration: 79000
+Accept: 0.25
+sigma_v: 0.22869
+Time (loop): 0.0066492
+log-likelihood: -34.8396
+Iteration: 80000
+Accept: 0.24
+sigma_v: 0.22869
+Time (loop): 0.006647
+log-likelihood: -38.5421
+Iteration: 81000
+Accept: 0.28
+sigma_v: 0.22869
+Time (loop): 0.0066454
+log-likelihood: -37.9887
+Iteration: 82000
+Accept: 0.24
+sigma_v: 0.22869
+Time (loop): 0.0066439
+log-likelihood: -32.3373
+Iteration: 83000
+Accept: 0.24
+sigma_v: 0.22869
+Time (loop): 0.0066429
+log-likelihood: -31.5203
+Iteration: 84000
+Accept: 0.4
+sigma_v: 0.22869
+Time (loop): 0.0066418
+log-likelihood: -32.1504
+Iteration: 85000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.0066413
+log-likelihood: -31.5229
+Iteration: 86000
+Accept: 0.3
+sigma_v: 0.22869
+Time (loop): 0.0066408
+log-likelihood: -32.9437
+Iteration: 87000
+Accept: 0.22
+sigma_v: 0.22869
+Time (loop): 0.00664
+log-likelihood: -34.0277
+Iteration: 88000
+Accept: 0.35
+sigma_v: 0.22869
+Time (loop): 0.0066391
+log-likelihood: -31.5533
+Iteration: 89000
+Accept: 0.42
+sigma_v: 0.22869
+Time (loop): 0.0066384
+log-likelihood: -32.7691
+Iteration: 90000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0066379
+log-likelihood: -37.1329
+Iteration: 91000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0066369
+log-likelihood: -31.3118
+Iteration: 92000
+Accept: 0.37
+sigma_v: 0.22869
+Time (loop): 0.006636
+log-likelihood: -36.1429
+Iteration: 93000
+Accept: 0.28
+sigma_v: 0.22869
+Time (loop): 0.0066351
+log-likelihood: -32.4592
+Iteration: 94000
+Accept: 0.42
+sigma_v: 0.22869
+Time (loop): 0.0066343
+log-likelihood: -34.8027
+Iteration: 95000
+Accept: 0.3
+sigma_v: 0.22869
+Time (loop): 0.0066331
+log-likelihood: -33.3
+Iteration: 96000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.0066319
+log-likelihood: -31.6112
+Iteration: 97000
+Accept: 0.37
+sigma_v: 0.22869
+Time (loop): 0.006631
+log-likelihood: -31.9481
+Iteration: 98000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.0066301
+log-likelihood: -33.2342
+Iteration: 99000
+Accept: 0.28
+sigma_v: 0.22869
+Time (loop): 0.0066294
+log-likelihood: -34.6186
+Iteration: 100000
+Accept: 0.26
+sigma_v: 0.22869
+Time (loop): 0.0066293
+log-likelihood: -35.338
+Iteration: 101000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.0066287
+log-likelihood: -37.2814
+Iteration: 102000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.0066276
+log-likelihood: -33.7681
+Iteration: 103000
+Accept: 0.36
+sigma_v: 0.22869
+Time (loop): 0.006627
+log-likelihood: -33.8804
+Iteration: 104000
+Accept: 0.31
+sigma_v: 0.22869
+Time (loop): 0.0066264
+log-likelihood: -33.8088
+Iteration: 105000
+Accept: 0.34
+sigma_v: 0.22869
+Time (loop): 0.0066264
+log-likelihood: -33.778
+Iteration: 106000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.006626
+log-likelihood: -37.2439
+Iteration: 107000
+Accept: 0.23
+sigma_v: 0.22869
+Time (loop): 0.0066253
+log-likelihood: -37.2803
+Iteration: 108000
+Accept: 0.34
+sigma_v: 0.22869
+Time (loop): 0.0066249
+log-likelihood: -36.9729
+Iteration: 109000
+Accept: 0.19
+sigma_v: 0.22869
+Time (loop): 0.0066244
+log-likelihood: -31.8492
+Iteration: 110000
+Accept: 0.26
+sigma_v: 0.22869
+Time (loop): 0.006624
+log-likelihood: -40.9368
+Iteration: 111000
+Accept: 0.4
+sigma_v: 0.22869
+Time (loop): 0.0066235
+log-likelihood: -33.5973
+Iteration: 112000
+Accept: 0.32
+sigma_v: 0.22869
+Time (loop): 0.0066231
+log-likelihood: -35.7263
+Iteration: 113000
+Accept: 0.42
+sigma_v: 0.22869
+Time (loop): 0.0066226
+log-likelihood: -34.2657
+Iteration: 114000
+Accept: 0.4
+sigma_v: 0.22869
+Time (loop): 0.0066219
+log-likelihood: -32.0298
+Iteration: 115000
+Accept: 0.21
+sigma_v: 0.22869
+Time (loop): 0.0066216
+log-likelihood: -33.6203
+Iteration: 116000
+Accept: 0.2
+sigma_v: 0.22869
+Time (loop): 0.0066211
+log-likelihood: -33.7424
+Iteration: 117000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0066204
+log-likelihood: -35.1149
+Iteration: 118000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.00662
+log-likelihood: -33.8933
+Iteration: 119000
+Accept: 0.25
+sigma_v: 0.22869
+Time (loop): 0.0066197
+log-likelihood: -31.1919
+Iteration: 120000
+Accept: 0.29
+sigma_v: 0.22869
+Time (loop): 0.0066193
+log-likelihood: -33.1016
+Iteration: 121000
+Accept: 0.28
+sigma_v: 0.22869
+Time (loop): 0.0066191
+log-likelihood: -34.8323
+Iteration: 122000
+Accept: 0.22
+sigma_v: 0.22869
+Time (loop): 0.0066186
+log-likelihood: -37.4356
+Iteration: 123000
+Accept: 0.19
+sigma_v: 0.22869
+Time (loop): 0.0066178
+log-likelihood: -37.9725
+Iteration: 124000
+Accept: 0.16
+sigma_v: 0.22869
+Time (loop): 0.006617
+log-likelihood: -39.3949
+Iteration: 125000
+Accept: 0.18
+sigma_v: 0.22869
+Time (loop): 0.006616
+log-likelihood: -37.6017
+m = 8
+Iteration: 1000
+Accept: 0.16
+sigma_v: 0.43047
+Time (loop): 0.0068988
+log-likelihood: -32.6609
+Iteration: 2000
+Accept: 0.19
+sigma_v: 0.34868
+Time (loop): 0.0069219
+log-likelihood: -31.8783
+Iteration: 3000
+Accept: 0.19
+sigma_v: 0.31067
+Time (loop): 0.0069188
+log-likelihood: -38.0872
+Iteration: 4000
+Accept: 0.23
+sigma_v: 0.22648
+Time (loop): 0.0069041
+log-likelihood: -37.2871
+Iteration: 5000
+Accept: 0.23
+sigma_v: 0.22648
+Time (loop): 0.0068942
+log-likelihood: -33.0701
+Iteration: 6000
+Accept: 0.26
+sigma_v: 0.20179
+Time (loop): 0.0068903
+log-likelihood: -34.4622
+Iteration: 7000
+Accept: 0.25
+sigma_v: 0.24417
+Time (loop): 0.0068967
+log-likelihood: -35.9074
+Iteration: 8000
+Accept: 0.2
+sigma_v: 0.26859
+Time (loop): 0.0068951
+log-likelihood: -32.9364
+Iteration: 9000
+Accept: 0.27
+sigma_v: 0.24173
+Time (loop): 0.0068914
+log-likelihood: -38.1009
+Iteration: 10000
+Accept: 0.3
+sigma_v: 0.24173
+Time (loop): 0.0068896
+log-likelihood: -37.8787
+Iteration: 11000
+Accept: 0.2
+sigma_v: 0.23931
+Time (loop): 0.0068907
+log-likelihood: -32.9463
+Iteration: 12000
+Accept: 0.17
+sigma_v: 0.23931
+Time (loop): 0.0068888
+log-likelihood: -32.4048
+Iteration: 13000
+Accept: 0.18
+sigma_v: 0.21538
+Time (loop): 0.0068858
+log-likelihood: -37.3324
+Iteration: 14000
+Accept: 0.21
+sigma_v: 0.21538
+Time (loop): 0.0068793
+log-likelihood: -35.4605
+Iteration: 15000
+Accept: 0.22
+sigma_v: 0.23455
+Time (loop): 0.006874
+log-likelihood: -35.3767
+Iteration: 16000
+Accept: 0.25
+sigma_v: 0.30906
+Time (loop): 0.0068732
+log-likelihood: -33.1556
+Iteration: 17000
+Accept: 0.32
+sigma_v: 0.33997
+Time (loop): 0.0068757
+log-likelihood: -37.6256
+Iteration: 18000
+Accept: 0.25
+sigma_v: 0.27262
+Time (loop): 0.0068733
+log-likelihood: -37.9863
+Iteration: 19000
+Accept: 0.27
+sigma_v: 0.24536
+Time (loop): 0.0068726
+log-likelihood: -34.1804
+Iteration: 20000
+Accept: 0.25
+sigma_v: 0.29688
+Time (loop): 0.0068736
+log-likelihood: -31.4743
+Iteration: 21000
+Accept: 0.15
+sigma_v: 0.29392
+Time (loop): 0.0068726
+log-likelihood: -36.5651
+Iteration: 22000
+Accept: 0.2
+sigma_v: 0.32007
+Time (loop): 0.0068757
+log-likelihood: -35.9199
+Iteration: 23000
+Accept: 0.21
+sigma_v: 0.32007
+Time (loop): 0.0068773
+log-likelihood: -33.4362
+Iteration: 24000
+Accept: 0.22
+sigma_v: 0.28519
+Time (loop): 0.0068786
+log-likelihood: -31.3503
+Iteration: 25000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068794
+log-likelihood: -38.2051
+Iteration: 26000
+Accept: 0.12
+sigma_v: 0.31371
+Time (loop): 0.0068798
+log-likelihood: -34.7672
+Iteration: 27000
+Accept: 0.16
+sigma_v: 0.31371
+Time (loop): 0.0068789
+log-likelihood: -38.2633
+Iteration: 28000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068788
+log-likelihood: -32.9421
+Iteration: 29000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.00688
+log-likelihood: -33.7304
+Iteration: 30000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068791
+log-likelihood: -35.6817
+Iteration: 31000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068789
+log-likelihood: -33.558
+Iteration: 32000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068788
+log-likelihood: -34.1805
+Iteration: 33000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068792
+log-likelihood: -32.101
+Iteration: 34000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068804
+log-likelihood: -36.3518
+Iteration: 35000
+Accept: 0.23
+sigma_v: 0.31371
+Time (loop): 0.0068811
+log-likelihood: -33.8892
+Iteration: 36000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068819
+log-likelihood: -36.5316
+Iteration: 37000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068813
+log-likelihood: -44.1588
+Iteration: 38000
+Accept: 0.13
+sigma_v: 0.31371
+Time (loop): 0.0068813
+log-likelihood: -37.2578
+Iteration: 39000
+Accept: 0.16
+sigma_v: 0.31371
+Time (loop): 0.0068797
+log-likelihood: -34.607
+Iteration: 40000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068791
+log-likelihood: -38.4094
+Iteration: 41000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068799
+log-likelihood: -36.6251
+Iteration: 42000
+Accept: 0.27
+sigma_v: 0.31371
+Time (loop): 0.0068801
+log-likelihood: -34.6395
+Iteration: 43000
+Accept: 0.19
+sigma_v: 0.31371
+Time (loop): 0.0068806
+log-likelihood: -36.6907
+Iteration: 44000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068813
+log-likelihood: -31.9203
+Iteration: 45000
+Accept: 0.29
+sigma_v: 0.31371
+Time (loop): 0.0068807
+log-likelihood: -34.8302
+Iteration: 46000
+Accept: 0.11
+sigma_v: 0.31371
+Time (loop): 0.0068806
+log-likelihood: -34.0787
+Iteration: 47000
+Accept: 0.32
+sigma_v: 0.31371
+Time (loop): 0.006881
+log-likelihood: -36.6475
+Iteration: 48000
+Accept: 0.31
+sigma_v: 0.31371
+Time (loop): 0.006881
+log-likelihood: -38.2925
+Iteration: 49000
+Accept: 0.2
+sigma_v: 0.31371
+Time (loop): 0.0068851
+log-likelihood: -33.3578
+Iteration: 50000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.0068858
+log-likelihood: -33.3449
+Iteration: 51000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068856
+log-likelihood: -31.3834
+Iteration: 52000
+Accept: 0.29
+sigma_v: 0.31371
+Time (loop): 0.0068848
+log-likelihood: -31.4211
+Iteration: 53000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068849
+log-likelihood: -33.7598
+Iteration: 54000
+Accept: 0.19
+sigma_v: 0.31371
+Time (loop): 0.0068849
+log-likelihood: -34.8777
+Iteration: 55000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068842
+log-likelihood: -35.182
+Iteration: 56000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068832
+log-likelihood: -38.4252
+Iteration: 57000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068816
+log-likelihood: -37.7878
+Iteration: 58000
+Accept: 0.12
+sigma_v: 0.31371
+Time (loop): 0.0068809
+log-likelihood: -37.5967
+Iteration: 59000
+Accept: 0.23
+sigma_v: 0.31371
+Time (loop): 0.0068803
+log-likelihood: -37.6408
+Iteration: 60000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068796
+log-likelihood: -37.7487
+Iteration: 61000
+Accept: 0.1
+sigma_v: 0.31371
+Time (loop): 0.0068787
+log-likelihood: -37.7505
+Iteration: 62000
+Accept: 0.16
+sigma_v: 0.31371
+Time (loop): 0.0068774
+log-likelihood: -37.4355
+Iteration: 63000
+Accept: 0.25
+sigma_v: 0.31371
+Time (loop): 0.0068763
+log-likelihood: -35.346
+Iteration: 64000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068766
+log-likelihood: -33.7629
+Iteration: 65000
+Accept: 0.16
+sigma_v: 0.31371
+Time (loop): 0.0068768
+log-likelihood: -33.6402
+Iteration: 66000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068764
+log-likelihood: -38.4436
+Iteration: 67000
+Accept: 0.14
+sigma_v: 0.31371
+Time (loop): 0.0068764
+log-likelihood: -37.699
+Iteration: 68000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068761
+log-likelihood: -33.1852
+Iteration: 69000
+Accept: 0.19
+sigma_v: 0.31371
+Time (loop): 0.0068764
+log-likelihood: -35.659
+Iteration: 70000
+Accept: 0.13
+sigma_v: 0.31371
+Time (loop): 0.006876
+log-likelihood: -33.1077
+Iteration: 71000
+Accept: 0.28
+sigma_v: 0.31371
+Time (loop): 0.0068764
+log-likelihood: -31.5595
+Iteration: 72000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.006876
+log-likelihood: -39.5235
+Iteration: 73000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068757
+log-likelihood: -35.9249
+Iteration: 74000
+Accept: 0.24
+sigma_v: 0.31371
+Time (loop): 0.0068759
+log-likelihood: -34.2358
+Iteration: 75000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068756
+log-likelihood: -31.5888
+Iteration: 76000
+Accept: 0.36
+sigma_v: 0.31371
+Time (loop): 0.0068759
+log-likelihood: -33.5665
+Iteration: 77000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.006876
+log-likelihood: -35.6504
+Iteration: 78000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068763
+log-likelihood: -32.337
+Iteration: 79000
+Accept: 0.06
+sigma_v: 0.31371
+Time (loop): 0.0068766
+log-likelihood: -31.3328
+Iteration: 80000
+Accept: 0.19
+sigma_v: 0.31371
+Time (loop): 0.0068765
+log-likelihood: -38.3238
+Iteration: 81000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.0068762
+log-likelihood: -38.4884
+Iteration: 82000
+Accept: 0.1
+sigma_v: 0.31371
+Time (loop): 0.006876
+log-likelihood: -37.598
+Iteration: 83000
+Accept: 0.14
+sigma_v: 0.31371
+Time (loop): 0.0068761
+log-likelihood: -35.3815
+Iteration: 84000
+Accept: 0.24
+sigma_v: 0.31371
+Time (loop): 0.0068765
+log-likelihood: -31.6629
+Iteration: 85000
+Accept: 0.34
+sigma_v: 0.31371
+Time (loop): 0.006877
+log-likelihood: -34.7018
+Iteration: 86000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.0068769
+log-likelihood: -38.1223
+Iteration: 87000
+Accept: 0.09
+sigma_v: 0.31371
+Time (loop): 0.0068763
+log-likelihood: -37.9359
+Iteration: 88000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068763
+log-likelihood: -34.9578
+Iteration: 89000
+Accept: 0.2
+sigma_v: 0.31371
+Time (loop): 0.0068763
+log-likelihood: -31.8417
+Iteration: 90000
+Accept: 0.35
+sigma_v: 0.31371
+Time (loop): 0.0068746
+log-likelihood: -31.7284
+Iteration: 91000
+Accept: 0.23
+sigma_v: 0.31371
+Time (loop): 0.0068734
+log-likelihood: -34.0657
+Iteration: 92000
+Accept: 0.23
+sigma_v: 0.31371
+Time (loop): 0.0068719
+log-likelihood: -33.3945
+Iteration: 93000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068703
+log-likelihood: -33.1015
+Iteration: 94000
+Accept: 0.28
+sigma_v: 0.31371
+Time (loop): 0.0068688
+log-likelihood: -32.4428
+Iteration: 95000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.0068674
+log-likelihood: -33.1771
+Iteration: 96000
+Accept: 0.25
+sigma_v: 0.31371
+Time (loop): 0.0068661
+log-likelihood: -35.0106
+Iteration: 97000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068649
+log-likelihood: -34.075
+Iteration: 98000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068639
+log-likelihood: -31.6467
+Iteration: 99000
+Accept: 0.27
+sigma_v: 0.31371
+Time (loop): 0.0068629
+log-likelihood: -31.2145
+Iteration: 100000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.0068619
+log-likelihood: -33.0254
+Iteration: 101000
+Accept: 0.2
+sigma_v: 0.31371
+Time (loop): 0.0068605
+log-likelihood: -39.2573
+Iteration: 102000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068595
+log-likelihood: -38.5935
+Iteration: 103000
+Accept: 0.15
+sigma_v: 0.31371
+Time (loop): 0.0068582
+log-likelihood: -31.5821
+Iteration: 104000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.006857
+log-likelihood: -33.0427
+Iteration: 105000
+Accept: 0.16
+sigma_v: 0.31371
+Time (loop): 0.0068559
+log-likelihood: -31.7446
+Iteration: 106000
+Accept: 0.1
+sigma_v: 0.31371
+Time (loop): 0.0068548
+log-likelihood: -35.336
+Iteration: 107000
+Accept: 0.16
+sigma_v: 0.31371
+Time (loop): 0.0068534
+log-likelihood: -32.6808
+Iteration: 108000
+Accept: 0.14
+sigma_v: 0.31371
+Time (loop): 0.0068522
+log-likelihood: -37.6918
+Iteration: 109000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068515
+log-likelihood: -37.6622
+Iteration: 110000
+Accept: 0.24
+sigma_v: 0.31371
+Time (loop): 0.006851
+log-likelihood: -39.2638
+Iteration: 111000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068503
+log-likelihood: -35.075
+Iteration: 112000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.0068494
+log-likelihood: -32.0634
+Iteration: 113000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068486
+log-likelihood: -32.6469
+Iteration: 114000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068476
+log-likelihood: -36.1058
+Iteration: 115000
+Accept: 0.17
+sigma_v: 0.31371
+Time (loop): 0.006847
+log-likelihood: -35.3051
+Iteration: 116000
+Accept: 0.24
+sigma_v: 0.31371
+Time (loop): 0.0068468
+log-likelihood: -31.4984
+Iteration: 117000
+Accept: 0.19
+sigma_v: 0.31371
+Time (loop): 0.0068465
+log-likelihood: -35.0852
+Iteration: 118000
+Accept: 0.28
+sigma_v: 0.31371
+Time (loop): 0.0068463
+log-likelihood: -36.0777
+Iteration: 119000
+Accept: 0.11
+sigma_v: 0.31371
+Time (loop): 0.0068458
+log-likelihood: -33.9948
+Iteration: 120000
+Accept: 0.26
+sigma_v: 0.31371
+Time (loop): 0.0068452
+log-likelihood: -36.4342
+Iteration: 121000
+Accept: 0.21
+sigma_v: 0.31371
+Time (loop): 0.0068446
+log-likelihood: -37.2488
+Iteration: 122000
+Accept: 0.14
+sigma_v: 0.31371
+Time (loop): 0.0068439
+log-likelihood: -37.8009
+Iteration: 123000
+Accept: 0.24
+sigma_v: 0.31371
+Time (loop): 0.0068429
+log-likelihood: -37.9438
+Iteration: 124000
+Accept: 0.22
+sigma_v: 0.31371
+Time (loop): 0.0068422
+log-likelihood: -35.7894
+Iteration: 125000
+Accept: 0.18
+sigma_v: 0.31371
+Time (loop): 0.0068415
+log-likelihood: -37.7647
+m = 9
+Iteration: 1000
+Accept: 0.09
+sigma_v: 0.43047
+Time (loop): 0.0072724
+log-likelihood: -41.2902
+Iteration: 2000
+Accept: 0.16
+sigma_v: 0.28243
+Time (loop): 0.0073022
+log-likelihood: -34.5268
+Iteration: 3000
+Accept: 0.33
+sigma_v: 0.27961
+Time (loop): 0.0073057
+log-likelihood: -35.3671
+Iteration: 4000
+Accept: 0.12
+sigma_v: 0.33832
+Time (loop): 0.0073128
+log-likelihood: -33.8836
+Iteration: 5000
+Accept: 0.21
+sigma_v: 0.30449
+Time (loop): 0.0073218
+log-likelihood: -32.7814
+Iteration: 6000
+Accept: 0.19
+sigma_v: 0.27404
+Time (loop): 0.0073303
+log-likelihood: -38.355
+Iteration: 7000
+Accept: 0.31
+sigma_v: 0.30145
+Time (loop): 0.007329
+log-likelihood: -36.908
+Iteration: 8000
+Accept: 0.2
+sigma_v: 0.36475
+Time (loop): 0.0073365
+log-likelihood: -31.4674
+Iteration: 9000
+Accept: 0.24
+sigma_v: 0.23931
+Time (loop): 0.007334
+log-likelihood: -37.7165
+Iteration: 10000
+Accept: 0.26
+sigma_v: 0.23931
+Time (loop): 0.0073273
+log-likelihood: -33.4222
+Iteration: 11000
+Accept: 0.11
+sigma_v: 0.21538
+Time (loop): 0.0073294
+log-likelihood: -38.2939
+Iteration: 12000
+Accept: 0.27
+sigma_v: 0.21323
+Time (loop): 0.0073256
+log-likelihood: -38.3333
+Iteration: 13000
+Accept: 0.22
+sigma_v: 0.21323
+Time (loop): 0.0073206
+log-likelihood: -37.5541
+Iteration: 14000
+Accept: 0.17
+sigma_v: 0.2322
+Time (loop): 0.0073215
+log-likelihood: -31.4378
+Iteration: 15000
+Accept: 0.25
+sigma_v: 0.20898
+Time (loop): 0.0073218
+log-likelihood: -35.3325
+Iteration: 16000
+Accept: 0.21
+sigma_v: 0.30597
+Time (loop): 0.007326
+log-likelihood: -36.2573
+Iteration: 17000
+Accept: 0.2
+sigma_v: 0.3332
+Time (loop): 0.0073266
+log-likelihood: -32.5084
+Iteration: 18000
+Accept: 0.27
+sigma_v: 0.3332
+Time (loop): 0.0073277
+log-likelihood: -32.9688
+Iteration: 19000
+Accept: 0.29
+sigma_v: 0.29988
+Time (loop): 0.0073295
+log-likelihood: -33.302
+Iteration: 20000
+Accept: 0.14
+sigma_v: 0.36286
+Time (loop): 0.0073293
+log-likelihood: -34.1344
+Iteration: 21000
+Accept: 0.13
+sigma_v: 0.26452
+Time (loop): 0.0073241
+log-likelihood: -37.9585
+Iteration: 22000
+Accept: 0.2
+sigma_v: 0.21426
+Time (loop): 0.0073236
+log-likelihood: -36.8693
+Iteration: 23000
+Accept: 0.2
+sigma_v: 0.21426
+Time (loop): 0.0073224
+log-likelihood: -38.0429
+Iteration: 24000
+Accept: 0.22
+sigma_v: 0.23569
+Time (loop): 0.0073193
+log-likelihood: -31.7534
+Iteration: 25000
+Accept: 0.27
+sigma_v: 0.23333
+Time (loop): 0.0073174
+log-likelihood: -32.097
+Iteration: 26000
+Accept: 0.34
+sigma_v: 0.23333
+Time (loop): 0.0073165
+log-likelihood: -31.751
+Iteration: 27000
+Accept: 0.34
+sigma_v: 0.23333
+Time (loop): 0.0073156
+log-likelihood: -35.668
+Iteration: 28000
+Accept: 0.29
+sigma_v: 0.23333
+Time (loop): 0.0073152
+log-likelihood: -32.1565
+Iteration: 29000
+Accept: 0.3
+sigma_v: 0.23333
+Time (loop): 0.0073141
+log-likelihood: -31.6505
+Iteration: 30000
+Accept: 0.37
+sigma_v: 0.23333
+Time (loop): 0.0073133
+log-likelihood: -31.6274
+Iteration: 31000
+Accept: 0.28
+sigma_v: 0.23333
+Time (loop): 0.0073117
+log-likelihood: -34.0195
+Iteration: 32000
+Accept: 0.34
+sigma_v: 0.23333
+Time (loop): 0.0073115
+log-likelihood: -33.619
+Iteration: 33000
+Accept: 0.39
+sigma_v: 0.23333
+Time (loop): 0.0073091
+log-likelihood: -31.3109
+Iteration: 34000
+Accept: 0.47
+sigma_v: 0.23333
+Time (loop): 0.0073098
+log-likelihood: -34.0717
+Iteration: 35000
+Accept: 0.36
+sigma_v: 0.23333
+Time (loop): 0.0073107
+log-likelihood: -31.9255
+Iteration: 36000
+Accept: 0.32
+sigma_v: 0.23333
+Time (loop): 0.0073116
+log-likelihood: -32.9203
+Iteration: 37000
+Accept: 0.44
+sigma_v: 0.23333
+Time (loop): 0.0073135
+log-likelihood: -38.284
+Iteration: 38000
+Accept: 0.36
+sigma_v: 0.23333
+Time (loop): 0.0073119
+log-likelihood: -31.6454
+Iteration: 39000
+Accept: 0.44
+sigma_v: 0.23333
+Time (loop): 0.0073114
+log-likelihood: -33.7563
+Iteration: 40000
+Accept: 0.29
+sigma_v: 0.23333
+Time (loop): 0.0073101
+log-likelihood: -34.211
+Iteration: 41000
+Accept: 0.36
+sigma_v: 0.23333
+Time (loop): 0.0073099
+log-likelihood: -32.0491
+Iteration: 42000
+Accept: 0.29
+sigma_v: 0.23333
+Time (loop): 0.0073099
+log-likelihood: -34.7383
+Iteration: 43000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.0073115
+log-likelihood: -38.8259
+Iteration: 44000
+Accept: 0.22
+sigma_v: 0.23333
+Time (loop): 0.0073109
+log-likelihood: -36.8306
+Iteration: 45000
+Accept: 0.25
+sigma_v: 0.23333
+Time (loop): 0.0073109
+log-likelihood: -40.074
+Iteration: 46000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073108
+log-likelihood: -32.6364
+Iteration: 47000
+Accept: 0.18
+sigma_v: 0.23333
+Time (loop): 0.0073094
+log-likelihood: -31.6042
+Iteration: 48000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073082
+log-likelihood: -37.1694
+Iteration: 49000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073082
+log-likelihood: -34.4446
+Iteration: 50000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.0073071
+log-likelihood: -37.3929
+Iteration: 51000
+Accept: 0.14
+sigma_v: 0.23333
+Time (loop): 0.0073068
+log-likelihood: -37.8013
+Iteration: 52000
+Accept: 0.28
+sigma_v: 0.23333
+Time (loop): 0.0073059
+log-likelihood: -33.2827
+Iteration: 53000
+Accept: 0.2
+sigma_v: 0.23333
+Time (loop): 0.0073051
+log-likelihood: -35.7074
+Iteration: 54000
+Accept: 0.2
+sigma_v: 0.23333
+Time (loop): 0.0073036
+log-likelihood: -37.0001
+Iteration: 55000
+Accept: 0.18
+sigma_v: 0.23333
+Time (loop): 0.0073022
+log-likelihood: -38.8079
+Iteration: 56000
+Accept: 0.23
+sigma_v: 0.23333
+Time (loop): 0.0073012
+log-likelihood: -38.7802
+Iteration: 57000
+Accept: 0.29
+sigma_v: 0.23333
+Time (loop): 0.0073015
+log-likelihood: -36.4294
+Iteration: 58000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073019
+log-likelihood: -38.7915
+Iteration: 59000
+Accept: 0.32
+sigma_v: 0.23333
+Time (loop): 0.0073023
+log-likelihood: -36.3328
+Iteration: 60000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073032
+log-likelihood: -33.191
+Iteration: 61000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073024
+log-likelihood: -34.9074
+Iteration: 62000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.0073017
+log-likelihood: -38.4313
+Iteration: 63000
+Accept: 0.18
+sigma_v: 0.23333
+Time (loop): 0.0072998
+log-likelihood: -31.6471
+Iteration: 64000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073002
+log-likelihood: -38.2334
+Iteration: 65000
+Accept: 0.33
+sigma_v: 0.23333
+Time (loop): 0.0073013
+log-likelihood: -35.3616
+Iteration: 66000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.007301
+log-likelihood: -35.6157
+Iteration: 67000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073013
+log-likelihood: -32.0768
+Iteration: 68000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.007302
+log-likelihood: -36.8058
+Iteration: 69000
+Accept: 0.18
+sigma_v: 0.23333
+Time (loop): 0.0073024
+log-likelihood: -37.2294
+Iteration: 70000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.0073032
+log-likelihood: -34.4118
+Iteration: 71000
+Accept: 0.31
+sigma_v: 0.23333
+Time (loop): 0.0073037
+log-likelihood: -37.4239
+Iteration: 72000
+Accept: 0.36
+sigma_v: 0.23333
+Time (loop): 0.0073044
+log-likelihood: -33.5831
+Iteration: 73000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073051
+log-likelihood: -35.2476
+Iteration: 74000
+Accept: 0.43
+sigma_v: 0.23333
+Time (loop): 0.0073064
+log-likelihood: -32.0825
+Iteration: 75000
+Accept: 0.24
+sigma_v: 0.23333
+Time (loop): 0.0073081
+log-likelihood: -36.2072
+Iteration: 76000
+Accept: 0.37
+sigma_v: 0.23333
+Time (loop): 0.0073091
+log-likelihood: -35.5733
+Iteration: 77000
+Accept: 0.35
+sigma_v: 0.23333
+Time (loop): 0.0073104
+log-likelihood: -33.6405
+Iteration: 78000
+Accept: 0.38
+sigma_v: 0.23333
+Time (loop): 0.0073119
+log-likelihood: -36.5896
+Iteration: 79000
+Accept: 0.34
+sigma_v: 0.23333
+Time (loop): 0.0073123
+log-likelihood: -31.8571
+Iteration: 80000
+Accept: 0.23
+sigma_v: 0.23333
+Time (loop): 0.0073125
+log-likelihood: -36.0261
+Iteration: 81000
+Accept: 0.31
+sigma_v: 0.23333
+Time (loop): 0.0073129
+log-likelihood: -32.9386
+Iteration: 82000
+Accept: 0.42
+sigma_v: 0.23333
+Time (loop): 0.0073129
+log-likelihood: -36.7065
+Iteration: 83000
+Accept: 0.33
+sigma_v: 0.23333
+Time (loop): 0.0073134
+log-likelihood: -32.1118
+Iteration: 84000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073138
+log-likelihood: -37.6252
+Iteration: 85000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073138
+log-likelihood: -31.4577
+Iteration: 86000
+Accept: 0.16
+sigma_v: 0.23333
+Time (loop): 0.0073134
+log-likelihood: -37.3206
+Iteration: 87000
+Accept: 0.28
+sigma_v: 0.23333
+Time (loop): 0.0073126
+log-likelihood: -31.4944
+Iteration: 88000
+Accept: 0.25
+sigma_v: 0.23333
+Time (loop): 0.0073129
+log-likelihood: -31.242
+Iteration: 89000
+Accept: 0.22
+sigma_v: 0.23333
+Time (loop): 0.0073132
+log-likelihood: -35.5232
+Iteration: 90000
+Accept: 0.22
+sigma_v: 0.23333
+Time (loop): 0.007314
+log-likelihood: -36.921
+Iteration: 91000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.0073146
+log-likelihood: -36.9391
+Iteration: 92000
+Accept: 0.22
+sigma_v: 0.23333
+Time (loop): 0.0073147
+log-likelihood: -31.3153
+Iteration: 93000
+Accept: 0.42
+sigma_v: 0.23333
+Time (loop): 0.0073155
+log-likelihood: -35.4155
+Iteration: 94000
+Accept: 0.57
+sigma_v: 0.23333
+Time (loop): 0.0073156
+log-likelihood: -35.9884
+Iteration: 95000
+Accept: 0.38
+sigma_v: 0.23333
+Time (loop): 0.0073157
+log-likelihood: -35.2335
+Iteration: 96000
+Accept: 0.35
+sigma_v: 0.23333
+Time (loop): 0.0073159
+log-likelihood: -31.8345
+Iteration: 97000
+Accept: 0.23
+sigma_v: 0.23333
+Time (loop): 0.0073156
+log-likelihood: -33.9269
+Iteration: 98000
+Accept: 0.36
+sigma_v: 0.23333
+Time (loop): 0.0073154
+log-likelihood: -31.5068
+Iteration: 99000
+Accept: 0.34
+sigma_v: 0.23333
+Time (loop): 0.0073157
+log-likelihood: -35.0253
+Iteration: 100000
+Accept: 0.37
+sigma_v: 0.23333
+Time (loop): 0.007316
+log-likelihood: -33.0991
+Iteration: 101000
+Accept: 0.32
+sigma_v: 0.23333
+Time (loop): 0.0073156
+log-likelihood: -31.0554
+Iteration: 102000
+Accept: 0.22
+sigma_v: 0.23333
+Time (loop): 0.0073151
+log-likelihood: -38.3546
+Iteration: 103000
+Accept: 0.31
+sigma_v: 0.23333
+Time (loop): 0.0073152
+log-likelihood: -36.3108
+Iteration: 104000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073156
+log-likelihood: -35.3126
+Iteration: 105000
+Accept: 0.24
+sigma_v: 0.23333
+Time (loop): 0.0073156
+log-likelihood: -34.376
+Iteration: 106000
+Accept: 0.24
+sigma_v: 0.23333
+Time (loop): 0.0073152
+log-likelihood: -32.7807
+Iteration: 107000
+Accept: 0.17
+sigma_v: 0.23333
+Time (loop): 0.0073146
+log-likelihood: -38.2734
+Iteration: 108000
+Accept: 0.33
+sigma_v: 0.23333
+Time (loop): 0.0073137
+log-likelihood: -33.4327
+Iteration: 109000
+Accept: 0.18
+sigma_v: 0.23333
+Time (loop): 0.0073132
+log-likelihood: -37.5977
+Iteration: 110000
+Accept: 0.31
+sigma_v: 0.23333
+Time (loop): 0.0073136
+log-likelihood: -33.6598
+Iteration: 111000
+Accept: 0.23
+sigma_v: 0.23333
+Time (loop): 0.0073139
+log-likelihood: -32.8724
+Iteration: 112000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.007314
+log-likelihood: -35.5135
+Iteration: 113000
+Accept: 0.3
+sigma_v: 0.23333
+Time (loop): 0.0073139
+log-likelihood: -34.7154
+Iteration: 114000
+Accept: 0.2
+sigma_v: 0.23333
+Time (loop): 0.0073138
+log-likelihood: -31.791
+Iteration: 115000
+Accept: 0.17
+sigma_v: 0.23333
+Time (loop): 0.0073131
+log-likelihood: -37.855
+Iteration: 116000
+Accept: 0.16
+sigma_v: 0.23333
+Time (loop): 0.0073124
+log-likelihood: -37.9778
+Iteration: 117000
+Accept: 0.23
+sigma_v: 0.23333
+Time (loop): 0.0073125
+log-likelihood: -31.5007
+Iteration: 118000
+Accept: 0.27
+sigma_v: 0.23333
+Time (loop): 0.0073124
+log-likelihood: -34.9331
+Iteration: 119000
+Accept: 0.18
+sigma_v: 0.23333
+Time (loop): 0.0073125
+log-likelihood: -37.8903
+Iteration: 120000
+Accept: 0.21
+sigma_v: 0.23333
+Time (loop): 0.0073127
+log-likelihood: -37.627
+Iteration: 121000
+Accept: 0.26
+sigma_v: 0.23333
+Time (loop): 0.0073129
+log-likelihood: -38.1636
+Iteration: 122000
+Accept: 0.17
+sigma_v: 0.23333
+Time (loop): 0.0073131
+log-likelihood: -37.2732
+Iteration: 123000
+Accept: 0.19
+sigma_v: 0.23333
+Time (loop): 0.0073132
+log-likelihood: -38.1048
+Iteration: 124000
+Accept: 0.17
+sigma_v: 0.23333
+Time (loop): 0.0073136
+log-likelihood: -32.0425
+Iteration: 125000
+Accept: 0.2
+sigma_v: 0.23333
+Time (loop): 0.0073138
+log-likelihood: -34.8598
+m = 10
+Iteration: 1000
+Accept: 0.13
+sigma_v: 0.4783
+Time (loop): 0.0073701
+log-likelihood: -38.0759
+Iteration: 2000
+Accept: 0.13
+sigma_v: 0.31381
+Time (loop): 0.0073369
+log-likelihood: -31.6554
+Iteration: 3000
+Accept: 0.22
+sigma_v: 0.27961
+Time (loop): 0.0072683
+log-likelihood: -37.4317
+Iteration: 4000
+Accept: 0.32
+sigma_v: 0.25164
+Time (loop): 0.0072343
+log-likelihood: -33.2796
+Iteration: 5000
+Accept: 0.15
+sigma_v: 0.36843
+Time (loop): 0.0072054
+log-likelihood: -37.097
+Iteration: 6000
+Accept: 0.19
+sigma_v: 0.29843
+Time (loop): 0.0071899
+log-likelihood: -35.6064
+Iteration: 7000
+Accept: 0.23
+sigma_v: 0.21756
+Time (loop): 0.0071826
+log-likelihood: -35.4478
+Iteration: 8000
+Accept: 0.21
+sigma_v: 0.21756
+Time (loop): 0.0071708
+log-likelihood: -37.666
+Iteration: 9000
+Accept: 0.25
+sigma_v: 0.21756
+Time (loop): 0.0071592
+log-likelihood: -39.9767
+Iteration: 10000
+Accept: 0.25
+sigma_v: 0.21756
+Time (loop): 0.007153
+log-likelihood: -37.7391
+Iteration: 11000
+Accept: 0.18
+sigma_v: 0.21538
+Time (loop): 0.0071562
+log-likelihood: -36.6055
+Iteration: 12000
+Accept: 0.29
+sigma_v: 0.21538
+Time (loop): 0.0071595
+log-likelihood: -36.6324
+Iteration: 13000
+Accept: 0.26
+sigma_v: 0.26061
+Time (loop): 0.007164
+log-likelihood: -31.9558
+Iteration: 14000
+Accept: 0.19
+sigma_v: 0.23455
+Time (loop): 0.0071647
+log-likelihood: -37.5177
+Iteration: 15000
+Accept: 0.16
+sigma_v: 0.23455
+Time (loop): 0.007163
+log-likelihood: -39.157
+Iteration: 16000
+Accept: 0.23
+sigma_v: 0.23455
+Time (loop): 0.0071664
+log-likelihood: -36.9719
+Iteration: 17000
+Accept: 0.16
+sigma_v: 0.21109
+Time (loop): 0.0071711
+log-likelihood: -38.4999
+Iteration: 18000
+Accept: 0.28
+sigma_v: 0.21109
+Time (loop): 0.007171
+log-likelihood: -36.5039
+Iteration: 19000
+Accept: 0.23
+sigma_v: 0.22988
+Time (loop): 0.0071757
+log-likelihood: -34.5299
+Iteration: 20000
+Accept: 0.19
+sigma_v: 0.20689
+Time (loop): 0.0071756
+log-likelihood: -40.3413
+Iteration: 21000
+Accept: 0.21
+sigma_v: 0.25034
+Time (loop): 0.007175
+log-likelihood: -37.5698
+Iteration: 22000
+Accept: 0.14
+sigma_v: 0.25034
+Time (loop): 0.0071719
+log-likelihood: -37.4832
+Iteration: 23000
+Accept: 0.21
+sigma_v: 0.22305
+Time (loop): 0.0071706
+log-likelihood: -37.5961
+Iteration: 24000
+Accept: 0.19
+sigma_v: 0.22305
+Time (loop): 0.0071708
+log-likelihood: -37.5551
+Iteration: 25000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071733
+log-likelihood: -37.2033
+Iteration: 26000
+Accept: 0.32
+sigma_v: 0.24536
+Time (loop): 0.0071755
+log-likelihood: -34.3391
+Iteration: 27000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071796
+log-likelihood: -33.918
+Iteration: 28000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.0071805
+log-likelihood: -32.7657
+Iteration: 29000
+Accept: 0.35
+sigma_v: 0.24536
+Time (loop): 0.0071827
+log-likelihood: -32.1029
+Iteration: 30000
+Accept: 0.35
+sigma_v: 0.24536
+Time (loop): 0.0071831
+log-likelihood: -33.2571
+Iteration: 31000
+Accept: 0.3
+sigma_v: 0.24536
+Time (loop): 0.0071843
+log-likelihood: -31.5157
+Iteration: 32000
+Accept: 0.26
+sigma_v: 0.24536
+Time (loop): 0.0071847
+log-likelihood: -32.0177
+Iteration: 33000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.0071832
+log-likelihood: -38.5467
+Iteration: 34000
+Accept: 0.25
+sigma_v: 0.24536
+Time (loop): 0.0071811
+log-likelihood: -35.2389
+Iteration: 35000
+Accept: 0.26
+sigma_v: 0.24536
+Time (loop): 0.0071792
+log-likelihood: -33.9535
+Iteration: 36000
+Accept: 0.33
+sigma_v: 0.24536
+Time (loop): 0.0071778
+log-likelihood: -33.3112
+Iteration: 37000
+Accept: 0.34
+sigma_v: 0.24536
+Time (loop): 0.0071772
+log-likelihood: -34.8857
+Iteration: 38000
+Accept: 0.38
+sigma_v: 0.24536
+Time (loop): 0.0071772
+log-likelihood: -32.8951
+Iteration: 39000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071766
+log-likelihood: -33.4352
+Iteration: 40000
+Accept: 0.31
+sigma_v: 0.24536
+Time (loop): 0.0071743
+log-likelihood: -35.7502
+Iteration: 41000
+Accept: 0.46
+sigma_v: 0.24536
+Time (loop): 0.0071739
+log-likelihood: -34.0383
+Iteration: 42000
+Accept: 0.36
+sigma_v: 0.24536
+Time (loop): 0.0071729
+log-likelihood: -35.0418
+Iteration: 43000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071729
+log-likelihood: -37.0868
+Iteration: 44000
+Accept: 0.31
+sigma_v: 0.24536
+Time (loop): 0.0071723
+log-likelihood: -34.6331
+Iteration: 45000
+Accept: 0.36
+sigma_v: 0.24536
+Time (loop): 0.0071719
+log-likelihood: -33.8297
+Iteration: 46000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071705
+log-likelihood: -35.1725
+Iteration: 47000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071687
+log-likelihood: -34.2769
+Iteration: 48000
+Accept: 0.32
+sigma_v: 0.24536
+Time (loop): 0.0071684
+log-likelihood: -33.4787
+Iteration: 49000
+Accept: 0.31
+sigma_v: 0.24536
+Time (loop): 0.007168
+log-likelihood: -33.1933
+Iteration: 50000
+Accept: 0.33
+sigma_v: 0.24536
+Time (loop): 0.0071692
+log-likelihood: -31.3602
+Iteration: 51000
+Accept: 0.29
+sigma_v: 0.24536
+Time (loop): 0.0071702
+log-likelihood: -31.9043
+Iteration: 52000
+Accept: 0.26
+sigma_v: 0.24536
+Time (loop): 0.0071717
+log-likelihood: -34.0868
+Iteration: 53000
+Accept: 0.31
+sigma_v: 0.24536
+Time (loop): 0.0071716
+log-likelihood: -34.0743
+Iteration: 54000
+Accept: 0.4
+sigma_v: 0.24536
+Time (loop): 0.0071727
+log-likelihood: -38.6439
+Iteration: 55000
+Accept: 0.36
+sigma_v: 0.24536
+Time (loop): 0.0071745
+log-likelihood: -34.9272
+Iteration: 56000
+Accept: 0.14
+sigma_v: 0.24536
+Time (loop): 0.0071758
+log-likelihood: -35.6563
+Iteration: 57000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.0071771
+log-likelihood: -31.3487
+Iteration: 58000
+Accept: 0.25
+sigma_v: 0.24536
+Time (loop): 0.0071769
+log-likelihood: -33.4591
+Iteration: 59000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071775
+log-likelihood: -38.1635
+Iteration: 60000
+Accept: 0.15
+sigma_v: 0.24536
+Time (loop): 0.007177
+log-likelihood: -37.9159
+Iteration: 61000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.007176
+log-likelihood: -37.6115
+Iteration: 62000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071749
+log-likelihood: -35.2833
+Iteration: 63000
+Accept: 0.25
+sigma_v: 0.24536
+Time (loop): 0.0071744
+log-likelihood: -34.9557
+Iteration: 64000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071742
+log-likelihood: -38.3698
+Iteration: 65000
+Accept: 0.2
+sigma_v: 0.24536
+Time (loop): 0.0071743
+log-likelihood: -40.5248
+Iteration: 66000
+Accept: 0.23
+sigma_v: 0.24536
+Time (loop): 0.0071747
+log-likelihood: -39.4242
+Iteration: 67000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071752
+log-likelihood: -32.8261
+Iteration: 68000
+Accept: 0.32
+sigma_v: 0.24536
+Time (loop): 0.007176
+log-likelihood: -32.4849
+Iteration: 69000
+Accept: 0.34
+sigma_v: 0.24536
+Time (loop): 0.0071772
+log-likelihood: -33.8495
+Iteration: 70000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.007178
+log-likelihood: -35.9985
+Iteration: 71000
+Accept: 0.2
+sigma_v: 0.24536
+Time (loop): 0.0071775
+log-likelihood: -35.8154
+Iteration: 72000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.0071772
+log-likelihood: -38.684
+Iteration: 73000
+Accept: 0.21
+sigma_v: 0.24536
+Time (loop): 0.007177
+log-likelihood: -41.2998
+Iteration: 74000
+Accept: 0.28
+sigma_v: 0.24536
+Time (loop): 0.0071772
+log-likelihood: -36.8591
+Iteration: 75000
+Accept: 0.36
+sigma_v: 0.24536
+Time (loop): 0.0071782
+log-likelihood: -31.8573
+Iteration: 76000
+Accept: 0.2
+sigma_v: 0.24536
+Time (loop): 0.0071789
+log-likelihood: -35.3728
+Iteration: 77000
+Accept: 0.12
+sigma_v: 0.24536
+Time (loop): 0.0071786
+log-likelihood: -38.0999
+Iteration: 78000
+Accept: 0.45
+sigma_v: 0.24536
+Time (loop): 0.007179
+log-likelihood: -32.9779
+Iteration: 79000
+Accept: 0.34
+sigma_v: 0.24536
+Time (loop): 0.0071787
+log-likelihood: -35.6783
+Iteration: 80000
+Accept: 0.19
+sigma_v: 0.24536
+Time (loop): 0.0071777
+log-likelihood: -36.4297
+Iteration: 81000
+Accept: 0.17
+sigma_v: 0.24536
+Time (loop): 0.0071775
+log-likelihood: -37.9501
+Iteration: 82000
+Accept: 0.2
+sigma_v: 0.24536
+Time (loop): 0.007177
+log-likelihood: -37.766
+Iteration: 83000
+Accept: 0.21
+sigma_v: 0.24536
+Time (loop): 0.0071767
+log-likelihood: -37.3938
+Iteration: 84000
+Accept: 0.21
+sigma_v: 0.24536
+Time (loop): 0.0071766
+log-likelihood: -36.8506
+Iteration: 85000
+Accept: 0.17
+sigma_v: 0.24536
+Time (loop): 0.0071763
+log-likelihood: -38.2357
+Iteration: 86000
+Accept: 0.16
+sigma_v: 0.24536
+Time (loop): 0.0071754
+log-likelihood: -38.3781
+Iteration: 87000
+Accept: 0.28
+sigma_v: 0.24536
+Time (loop): 0.0071761
+log-likelihood: -36.3676
+Iteration: 88000
+Accept: 0.17
+sigma_v: 0.24536
+Time (loop): 0.0071762
+log-likelihood: -33.9848
+Iteration: 89000
+Accept: 0.27
+sigma_v: 0.24536
+Time (loop): 0.0071767
+log-likelihood: -37.0474
+Iteration: 90000
+Accept: 0.16
+sigma_v: 0.24536
+Time (loop): 0.0071774
+log-likelihood: -34.412
+Iteration: 91000
+Accept: 0.21
+sigma_v: 0.24536
+Time (loop): 0.0071767
+log-likelihood: -33.3986
+Iteration: 92000
+Accept: 0.42
+sigma_v: 0.24536
+Time (loop): 0.0071766
+log-likelihood: -32.1316
+Iteration: 93000
+Accept: 0.42
+sigma_v: 0.24536
+Time (loop): 0.0071765
+log-likelihood: -34.5422
+Iteration: 94000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071762
+log-likelihood: -31.6892
+Iteration: 95000
+Accept: 0.23
+sigma_v: 0.24536
+Time (loop): 0.0071761
+log-likelihood: -34.2011
+Iteration: 96000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.0071758
+log-likelihood: -31.9723
+Iteration: 97000
+Accept: 0.27
+sigma_v: 0.24536
+Time (loop): 0.0071756
+log-likelihood: -33.9381
+Iteration: 98000
+Accept: 0.19
+sigma_v: 0.24536
+Time (loop): 0.0071749
+log-likelihood: -32.542
+Iteration: 99000
+Accept: 0.43
+sigma_v: 0.24536
+Time (loop): 0.0071743
+log-likelihood: -35.09
+Iteration: 100000
+Accept: 0.4
+sigma_v: 0.24536
+Time (loop): 0.0071747
+log-likelihood: -35.3723
+Iteration: 101000
+Accept: 0.25
+sigma_v: 0.24536
+Time (loop): 0.0071745
+log-likelihood: -33.0176
+Iteration: 102000
+Accept: 0.21
+sigma_v: 0.24536
+Time (loop): 0.0071742
+log-likelihood: -34.0052
+Iteration: 103000
+Accept: 0.32
+sigma_v: 0.24536
+Time (loop): 0.0071741
+log-likelihood: -33.1877
+Iteration: 104000
+Accept: 0.3
+sigma_v: 0.24536
+Time (loop): 0.0071747
+log-likelihood: -32.1146
+Iteration: 105000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071754
+log-likelihood: -35.6442
+Iteration: 106000
+Accept: 0.36
+sigma_v: 0.24536
+Time (loop): 0.0071763
+log-likelihood: -35.7732
+Iteration: 107000
+Accept: 0.31
+sigma_v: 0.24536
+Time (loop): 0.0071771
+log-likelihood: -34.429
+Iteration: 108000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.0071779
+log-likelihood: -31.7421
+Iteration: 109000
+Accept: 0.33
+sigma_v: 0.24536
+Time (loop): 0.0071787
+log-likelihood: -34.1962
+Iteration: 110000
+Accept: 0.26
+sigma_v: 0.24536
+Time (loop): 0.0071797
+log-likelihood: -31.9882
+Iteration: 111000
+Accept: 0.39
+sigma_v: 0.24536
+Time (loop): 0.0071798
+log-likelihood: -34.4698
+Iteration: 112000
+Accept: 0.23
+sigma_v: 0.24536
+Time (loop): 0.0071799
+log-likelihood: -31.5244
+Iteration: 113000
+Accept: 0.17
+sigma_v: 0.24536
+Time (loop): 0.0071798
+log-likelihood: -40.196
+Iteration: 114000
+Accept: 0.2
+sigma_v: 0.24536
+Time (loop): 0.0071803
+log-likelihood: -33.5354
+Iteration: 115000
+Accept: 0.2
+sigma_v: 0.24536
+Time (loop): 0.0071805
+log-likelihood: -31.5725
+Iteration: 116000
+Accept: 0.26
+sigma_v: 0.24536
+Time (loop): 0.0071806
+log-likelihood: -34.8212
+Iteration: 117000
+Accept: 0.32
+sigma_v: 0.24536
+Time (loop): 0.0071813
+log-likelihood: -34.3416
+Iteration: 118000
+Accept: 0.28
+sigma_v: 0.24536
+Time (loop): 0.007181
+log-likelihood: -36.2152
+Iteration: 119000
+Accept: 0.14
+sigma_v: 0.24536
+Time (loop): 0.0071807
+log-likelihood: -31.3555
+Iteration: 120000
+Accept: 0.24
+sigma_v: 0.24536
+Time (loop): 0.007181
+log-likelihood: -31.3864
+Iteration: 121000
+Accept: 0.22
+sigma_v: 0.24536
+Time (loop): 0.0071806
+log-likelihood: -34.6628
+Iteration: 122000
+Accept: 0.19
+sigma_v: 0.24536
+Time (loop): 0.0071808
+log-likelihood: -36.7965
+Iteration: 123000
+Accept: 0.32
+sigma_v: 0.24536
+Time (loop): 0.0071812
+log-likelihood: -31.9546
+Iteration: 124000
+Accept: 0.26
+sigma_v: 0.24536
+Time (loop): 0.0071823
+log-likelihood: -34.6849
+Iteration: 125000
+Accept: 0.18
+sigma_v: 0.24536
+Time (loop): 0.0071836
+log-likelihood: -35.9412
+>> >> >> >> Iteration: 1000
+Accept: 0.02
+sigma_v: 0.43047
+Time (loop): 0.0043029
+log-likelihood: -33.3935
+Iteration: 2000
+Accept: 0.16
+sigma_v: 0.20589
+Time (loop): 0.0042885
+log-likelihood: -34.4931
+Iteration: 3000
+Accept: 0.29
+sigma_v: 0.16677
+Time (loop): 0.0042526
+log-likelihood: -31.8911
+Iteration: 4000
+Accept: 0.23
+sigma_v: 0.16677
+Time (loop): 0.0042367
+log-likelihood: -32.0185
+Iteration: 5000
+Accept: 0.2
+sigma_v: 0.16677
+Time (loop): 0.0042435
+log-likelihood: -32.7278
+Iteration: 6000
+Accept: 0.28
+sigma_v: 0.1651
+Time (loop): 0.0042343
+log-likelihood: -31.2389
+Iteration: 7000
+Accept: 0.19
+sigma_v: 0.14859
+Time (loop): 0.0042271
+log-likelihood: -33.0639
+Iteration: 8000
+Accept: 0.27
+sigma_v: 0.14859
+Time (loop): 0.0042188
+log-likelihood: -31.5731
+Iteration: 9000
+Accept: 0.21
+sigma_v: 0.14859
+Time (loop): 0.0042195
+log-likelihood: -33.989
+Iteration: 10000
+Accept: 0.19
+sigma_v: 0.14859
+Time (loop): 0.0042201
+log-likelihood: -34.2298
+Iteration: 11000
+Accept: 0.26
+sigma_v: 0.16345
+Time (loop): 0.004216
+log-likelihood: -37.9813
+Iteration: 12000
+Accept: 0.27
+sigma_v: 0.14711
+Time (loop): 0.0042099
+log-likelihood: -35.9508
+Iteration: 13000
+Accept: 0.28
+sigma_v: 0.14711
+Time (loop): 0.004207
+log-likelihood: -33.3701
+Iteration: 14000
+Accept: 0.24
+sigma_v: 0.16182
+Time (loop): 0.0042083
+log-likelihood: -36.8329
+Iteration: 15000
+Accept: 0.23
+sigma_v: 0.178
+Time (loop): 0.0042091
+log-likelihood: -32.2778
+Iteration: 16000
+Accept: 0.14
+sigma_v: 0.1602
+Time (loop): 0.0042054
+log-likelihood: -37.7377
+Iteration: 17000
+Accept: 0.2
+sigma_v: 0.1586
+Time (loop): 0.0042022
+log-likelihood: -36.9944
+Iteration: 18000
+Accept: 0.23
+sigma_v: 0.15701
+Time (loop): 0.0042031
+log-likelihood: -32.3598
+Iteration: 19000
+Accept: 0.23
+sigma_v: 0.15701
+Time (loop): 0.0042006
+log-likelihood: -31.8252
+Iteration: 20000
+Accept: 0.22
+sigma_v: 0.17271
+Time (loop): 0.0042011
+log-likelihood: -31.3359
+Iteration: 21000
+Accept: 0.14
+sigma_v: 0.17271
+Time (loop): 0.0042001
+log-likelihood: -33.8733
+Iteration: 22000
+Accept: 0.17
+sigma_v: 0.17099
+Time (loop): 0.0041984
+log-likelihood: -32.8687
+Iteration: 23000
+Accept: 0.24
+sigma_v: 0.16928
+Time (loop): 0.0041961
+log-likelihood: -35.2136
+Iteration: 24000
+Accept: 0.18
+sigma_v: 0.16928
+Time (loop): 0.0041947
+log-likelihood: -33.7345
+Iteration: 25000
+Accept: 0.14
+sigma_v: 0.16758
+Time (loop): 0.0041931
+log-likelihood: -31.2475
+Iteration: 26000
+Accept: 0.31
+sigma_v: 0.15083
+Time (loop): 0.004192
+log-likelihood: -34.7503
+Iteration: 27000
+Accept: 0.17
+sigma_v: 0.15083
+Time (loop): 0.0041907
+log-likelihood: -33.3741
+Iteration: 28000
+Accept: 0.18
+sigma_v: 0.15083
+Time (loop): 0.0041901
+log-likelihood: -38.1984
+Iteration: 29000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041897
+log-likelihood: -34.6106
+Iteration: 30000
+Accept: 0.26
+sigma_v: 0.15083
+Time (loop): 0.0041903
+log-likelihood: -33.6665
+Iteration: 31000
+Accept: 0.2
+sigma_v: 0.15083
+Time (loop): 0.0041897
+log-likelihood: -40.8598
+Iteration: 32000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041895
+log-likelihood: -33.9304
+Iteration: 33000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041888
+log-likelihood: -38.1352
+Iteration: 34000
+Accept: 0.22
+sigma_v: 0.15083
+Time (loop): 0.0041874
+log-likelihood: -36.9246
+Iteration: 35000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041872
+log-likelihood: -36.5036
+Iteration: 36000
+Accept: 0.32
+sigma_v: 0.15083
+Time (loop): 0.0041863
+log-likelihood: -33.0903
+Iteration: 37000
+Accept: 0.38
+sigma_v: 0.15083
+Time (loop): 0.0041862
+log-likelihood: -37.3452
+Iteration: 38000
+Accept: 0.32
+sigma_v: 0.15083
+Time (loop): 0.0041848
+log-likelihood: -37.6939
+Iteration: 39000
+Accept: 0.38
+sigma_v: 0.15083
+Time (loop): 0.0041822
+log-likelihood: -37.0187
+Iteration: 40000
+Accept: 0.22
+sigma_v: 0.15083
+Time (loop): 0.0041817
+log-likelihood: -36.7171
+Iteration: 41000
+Accept: 0.35
+sigma_v: 0.15083
+Time (loop): 0.0041804
+log-likelihood: -38.6341
+Iteration: 42000
+Accept: 0.34
+sigma_v: 0.15083
+Time (loop): 0.0041798
+log-likelihood: -39.2787
+Iteration: 43000
+Accept: 0.47
+sigma_v: 0.15083
+Time (loop): 0.0041784
+log-likelihood: -37.3371
+Iteration: 44000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041768
+log-likelihood: -39.2171
+Iteration: 45000
+Accept: 0.31
+sigma_v: 0.15083
+Time (loop): 0.0041759
+log-likelihood: -35.2011
+Iteration: 46000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041758
+log-likelihood: -38.4767
+Iteration: 47000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.004178
+log-likelihood: -37.1245
+Iteration: 48000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041794
+log-likelihood: -33.6425
+Iteration: 49000
+Accept: 0.28
+sigma_v: 0.15083
+Time (loop): 0.004179
+log-likelihood: -34.803
+Iteration: 50000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041783
+log-likelihood: -36.3344
+Iteration: 51000
+Accept: 0.35
+sigma_v: 0.15083
+Time (loop): 0.0041782
+log-likelihood: -32.9401
+Iteration: 52000
+Accept: 0.34
+sigma_v: 0.15083
+Time (loop): 0.0041779
+log-likelihood: -34.7454
+Iteration: 53000
+Accept: 0.34
+sigma_v: 0.15083
+Time (loop): 0.0041771
+log-likelihood: -37.2308
+Iteration: 54000
+Accept: 0.32
+sigma_v: 0.15083
+Time (loop): 0.0041768
+log-likelihood: -36.5066
+Iteration: 55000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.004177
+log-likelihood: -36.1024
+Iteration: 56000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041763
+log-likelihood: -35.4514
+Iteration: 57000
+Accept: 0.2
+sigma_v: 0.15083
+Time (loop): 0.0041767
+log-likelihood: -35.3072
+Iteration: 58000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041765
+log-likelihood: -37.0529
+Iteration: 59000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041775
+log-likelihood: -37.1988
+Iteration: 60000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041777
+log-likelihood: -34.9198
+Iteration: 61000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041777
+log-likelihood: -32.342
+Iteration: 62000
+Accept: 0.24
+sigma_v: 0.15083
+Time (loop): 0.004177
+log-likelihood: -37.3879
+Iteration: 63000
+Accept: 0.35
+sigma_v: 0.15083
+Time (loop): 0.0041766
+log-likelihood: -34.0493
+Iteration: 64000
+Accept: 0.24
+sigma_v: 0.15083
+Time (loop): 0.0041763
+log-likelihood: -34.7976
+Iteration: 65000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041761
+log-likelihood: -35.8815
+Iteration: 66000
+Accept: 0.32
+sigma_v: 0.15083
+Time (loop): 0.0041754
+log-likelihood: -37.4662
+Iteration: 67000
+Accept: 0.28
+sigma_v: 0.15083
+Time (loop): 0.0041749
+log-likelihood: -35.8126
+Iteration: 68000
+Accept: 0.22
+sigma_v: 0.15083
+Time (loop): 0.0041748
+log-likelihood: -35.1016
+Iteration: 69000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041747
+log-likelihood: -31.7488
+Iteration: 70000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041742
+log-likelihood: -35.9653
+Iteration: 71000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041741
+log-likelihood: -32.8922
+Iteration: 72000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.004174
+log-likelihood: -36.3891
+Iteration: 73000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.004174
+log-likelihood: -31.4153
+Iteration: 74000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.004174
+log-likelihood: -33.1704
+Iteration: 75000
+Accept: 0.22
+sigma_v: 0.15083
+Time (loop): 0.004174
+log-likelihood: -32.3044
+Iteration: 76000
+Accept: 0.31
+sigma_v: 0.15083
+Time (loop): 0.0041738
+log-likelihood: -33.3765
+Iteration: 77000
+Accept: 0.19
+sigma_v: 0.15083
+Time (loop): 0.0041734
+log-likelihood: -34.0693
+Iteration: 78000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041733
+log-likelihood: -33.6958
+Iteration: 79000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041728
+log-likelihood: -35.1457
+Iteration: 80000
+Accept: 0.28
+sigma_v: 0.15083
+Time (loop): 0.0041731
+log-likelihood: -31.6253
+Iteration: 81000
+Accept: 0.17
+sigma_v: 0.15083
+Time (loop): 0.0041733
+log-likelihood: -31.2556
+Iteration: 82000
+Accept: 0.32
+sigma_v: 0.15083
+Time (loop): 0.004173
+log-likelihood: -34.3073
+Iteration: 83000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041727
+log-likelihood: -34.9607
+Iteration: 84000
+Accept: 0.22
+sigma_v: 0.15083
+Time (loop): 0.0041719
+log-likelihood: -32.6404
+Iteration: 85000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041712
+log-likelihood: -35.6964
+Iteration: 86000
+Accept: 0.2
+sigma_v: 0.15083
+Time (loop): 0.0041705
+log-likelihood: -34.7603
+Iteration: 87000
+Accept: 0.19
+sigma_v: 0.15083
+Time (loop): 0.0041698
+log-likelihood: -34.8707
+Iteration: 88000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041693
+log-likelihood: -34.2225
+Iteration: 89000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041689
+log-likelihood: -33.1891
+Iteration: 90000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041683
+log-likelihood: -35.7647
+Iteration: 91000
+Accept: 0.28
+sigma_v: 0.15083
+Time (loop): 0.0041679
+log-likelihood: -32.5027
+Iteration: 92000
+Accept: 0.24
+sigma_v: 0.15083
+Time (loop): 0.0041675
+log-likelihood: -33.6524
+Iteration: 93000
+Accept: 0.26
+sigma_v: 0.15083
+Time (loop): 0.0041677
+log-likelihood: -33.8829
+Iteration: 94000
+Accept: 0.2
+sigma_v: 0.15083
+Time (loop): 0.0041672
+log-likelihood: -33.2452
+Iteration: 95000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041667
+log-likelihood: -31.5586
+Iteration: 96000
+Accept: 0.26
+sigma_v: 0.15083
+Time (loop): 0.0041662
+log-likelihood: -33.0452
+Iteration: 97000
+Accept: 0.24
+sigma_v: 0.15083
+Time (loop): 0.0041658
+log-likelihood: -33.33
+Iteration: 98000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041657
+log-likelihood: -33.2633
+Iteration: 99000
+Accept: 0.15
+sigma_v: 0.15083
+Time (loop): 0.0041654
+log-likelihood: -36.1215
+Iteration: 100000
+Accept: 0.3
+sigma_v: 0.15083
+Time (loop): 0.0041654
+log-likelihood: -31.2541
+Iteration: 101000
+Accept: 0.23
+sigma_v: 0.15083
+Time (loop): 0.004165
+log-likelihood: -32.4188
+Iteration: 102000
+Accept: 0.2
+sigma_v: 0.15083
+Time (loop): 0.0041648
+log-likelihood: -35.1842
+Iteration: 103000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041651
+log-likelihood: -33.4251
+Iteration: 104000
+Accept: 0.23
+sigma_v: 0.15083
+Time (loop): 0.0041648
+log-likelihood: -35.1045
+Iteration: 105000
+Accept: 0.2
+sigma_v: 0.15083
+Time (loop): 0.0041648
+log-likelihood: -32.0422
+Iteration: 106000
+Accept: 0.17
+sigma_v: 0.15083
+Time (loop): 0.0041649
+log-likelihood: -31.441
+Iteration: 107000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041644
+log-likelihood: -32.0984
+Iteration: 108000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041639
+log-likelihood: -32.1012
+Iteration: 109000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041633
+log-likelihood: -33.7256
+Iteration: 110000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041628
+log-likelihood: -32.3303
+Iteration: 111000
+Accept: 0.19
+sigma_v: 0.15083
+Time (loop): 0.0041623
+log-likelihood: -32.9648
+Iteration: 112000
+Accept: 0.19
+sigma_v: 0.15083
+Time (loop): 0.0041617
+log-likelihood: -32.9962
+Iteration: 113000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.004161
+log-likelihood: -34.6579
+Iteration: 114000
+Accept: 0.23
+sigma_v: 0.15083
+Time (loop): 0.0041604
+log-likelihood: -32.6876
+Iteration: 115000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041599
+log-likelihood: -32.1179
+Iteration: 116000
+Accept: 0.27
+sigma_v: 0.15083
+Time (loop): 0.0041594
+log-likelihood: -35.5017
+Iteration: 117000
+Accept: 0.19
+sigma_v: 0.15083
+Time (loop): 0.0041592
+log-likelihood: -36.5448
+Iteration: 118000
+Accept: 0.25
+sigma_v: 0.15083
+Time (loop): 0.0041587
+log-likelihood: -31.6371
+Iteration: 119000
+Accept: 0.31
+sigma_v: 0.15083
+Time (loop): 0.0041581
+log-likelihood: -35.3312
+Iteration: 120000
+Accept: 0.22
+sigma_v: 0.15083
+Time (loop): 0.0041576
+log-likelihood: -36.6074
+Iteration: 121000
+Accept: 0.17
+sigma_v: 0.15083
+Time (loop): 0.0041571
+log-likelihood: -34.3025
+Iteration: 122000
+Accept: 0.17
+sigma_v: 0.15083
+Time (loop): 0.0041567
+log-likelihood: -35.2286
+Iteration: 123000
+Accept: 0.23
+sigma_v: 0.15083
+Time (loop): 0.0041564
+log-likelihood: -32.2246
+Iteration: 124000
+Accept: 0.21
+sigma_v: 0.15083
+Time (loop): 0.0041567
+log-likelihood: -31.877
+Iteration: 125000
+Accept: 0.29
+sigma_v: 0.15083
+Time (loop): 0.0041565
+log-likelihood: -32.792
+>> >> >> {Attempt to reference field of non-structure array.
+
+Error in plotall (line 3)
+opt = out.opt;
+} 
+>> >> >> >> 
